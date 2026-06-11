@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>AI Trip Planner</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <!-- Splash Screen -->
+    <div id="splash-screen">
+        <div class="splash-content">
+            <h1>✈️ AI Trip Planner</h1>
+            <p>Plan your perfect journey with AI</p>
+        </div>
+    </div>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <h1>✈️ AI Trip Planner</h1>
+        <p>Create personalized travel itineraries powered by AI</p>
+    </div>
+
+    <!-- Statistics Section -->
+    <div class="stats">
+
+        <div class="stat-card">
+            🌍 100+ Destinations
+        </div>
+
+        <div class="stat-card">
+            🤖 AI Powered
+        </div>
+
+        <div class="stat-card">
+            ⚡ Instant Plans
+        </div>
+
+    </div>
+
+    <!-- Main Form -->
+    <div class="container">
+
+        <h1>Plan Your Dream Trip</h1>
+
+        <form action="/generate" method="POST">
+
+            <input type="text"
+                   name="source"
+                   placeholder="📍 Source City"
+                   required>
+
+            <input type="text"
+                   name="destination"
+                   placeholder="🌍 Destination"
+                   required>
+
+            <select name="budget" required>
+                <option value="">💰 Select Budget</option>
+                <option>Budget</option>
+                <option>Standard</option>
+                <option>Luxury</option>
+            </select>
+
+            <input type="number"
+                   name="days"
+                   placeholder="📅 Number of Days"
+                   required>
+
+            <input type="text"
+                   name="interests"
+                   placeholder="🎯 Interests (History, Food, Adventure)"
+                   required>
+
+            <select name="trip_type" required>
+                <option value="">👥 Select Trip Type</option>
+                <option>Solo</option>
+                <option>Family</option>
+                <option>Couple</option>
+                <option>Friends</option>
+            </select>
+
+            <button type="submit">
+                Generate Plan 🚀
+            </button>
+
+        </form>
+
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        Powered by Gemini AI • Built with Flask • ✈️ Travel Smarter
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Your Trip Plan</title>
+<head>
+    <title>Your Trip Plan</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <div class="hero-small">
+        <h1>🌍 Your Travel Plan</h1>
+        <p>Your personalized AI-generated itinerary is ready!</p>
+    </div>
+
+    <!-- Result Container -->
+    <div class="container result-box">
+
+        <h1>✈️ AI Generated Travel Itinerary</h1>
+
+        <div class="plan-content">
+            {{ plan|safe }}
+        </div>
+
+        <hr>
+
+        <!-- Thank You Section -->
+        <div class="thank-you-section">
+
+            <h2>🙏 Thank You For Using AI Trip Planner</h2>
+
+            <p>
+                Your itinerary has been generated successfully.
+                We hope you have an amazing journey filled with unforgettable experiences.
+            </p>
+
+            <p>
+                Travel safely and make wonderful memories! ✈️🌍
+            </p>
+
+        </div>
+
+        <a href="/">
+            <button>
+                Create Another Plan 🚀
+            </button>
+        </a>
+
+    <!-- Footer -->
+    <footer>
+        Powered by Gemini AI • Built with Flask • Happy Travelling ✈️
+    </footer>
+
+</body>
+</html>

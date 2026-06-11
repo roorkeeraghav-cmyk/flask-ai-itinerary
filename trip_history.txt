@@ -1,0 +1,2419 @@
+
+
+Destination: MUMBAI
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mumbai Travel Itinerary - The City That Never Sleeps</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px 40px;
+            border-radius: 12px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e0e0e0;
+        }
+        h1 {
+            text-align: center;
+            color: #0056b3;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+            letter-spacing: 1px;
+        }
+        h2 {
+            color: #0056b3;
+            border-bottom: 3px solid #0056b3;
+            padding-bottom: 10px;
+            margin-top: 40px;
+            font-size: 1.8em;
+        }
+        h3 {
+            color: #007bff;
+            margin-top: 25px;
+            font-size: 1.3em;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        ol {
+            list-style-type: decimal;
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .summary-table, .budget-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            margin-bottom: 25px;
+        }
+        .summary-table th, .summary-table td,
+        .budget-table th, .budget-table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .summary-table th, .budget-table th {
+            background-color: #eaf3ff;
+            color: #0056b3;
+            font-weight: bold;
+        }
+        .budget-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #d9534f;
+        }
+        .day-plan {
+            background-color: #f8fcff;
+            border-left: 5px solid #007bff;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+        }
+        .day-plan strong {
+            color: #0056b3;
+            font-size: 1.1em;
+        }
+        .tip {
+            background-color: #ecf7ff;
+            border-left: 4px solid #5bc0de;
+            padding: 10px 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .attraction-item {
+            margin-bottom: 15px;
+            border-bottom: 1px dotted #e0e0e0;
+            padding-bottom: 10px;
+        }
+        .attraction-item:last-child {
+            border-bottom: none;
+        }
+        .hotel-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mumbai: The City of Dreams - 2-Day Couple's Getaway</h1>
+
+        <h2>Trip Summary</h2>
+        <table class="summary-table">
+            <tr>
+                <th>Detail</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Source</td>
+                <td>DELHI</td>
+            </tr>
+            <tr>
+                <td>Destination</td>
+                <td>MUMBAI</td>
+            </tr>
+            <tr>
+                <td>Budget Category</td>
+                <td>Standard</td>
+            </tr>
+            <tr>
+                <td>Days</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>Interests</td>
+                <td>HISTORY, FOOD, ADVENTURE</td>
+            </tr>
+            <tr>
+                <td>Trip Type</td>
+                <td>Couple</td>
+            </tr>
+        </table>
+
+        <h2>Tourist Attractions</h2>
+        <p>Explore Mumbai's iconic landmarks, rich history, and vibrant culture:</p>
+        <div class="attraction-item">
+            <h3>1. Gateway of India</h3>
+            <p>An iconic arch monument built during the British Raj, overlooking the Arabian Sea. It's Mumbai's most famous landmark and a starting point for ferry rides.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>2. Elephanta Caves</h3>
+            <p>A UNESCO World Heritage Site, these ancient rock-cut caves on Elephanta Island house sculptures dedicated to Shiva. Accessible by ferry from Gateway of India, offering a blend of history and adventure.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>3. Chhatrapati Shivaji Maharaj Terminus (CSMT)</h3>
+            <p>A magnificent historic railway station, also a UNESCO World Heritage Site. Its Victorian Gothic architecture is breathtaking and a testament to Mumbai's colonial past.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>4. Marine Drive (Queen's Necklace)</h3>
+            <p>A 3.6-kilometer-long boulevard along the coast, perfect for a leisurely evening stroll, offering stunning sunset views over the Arabian Sea. Looks like a string of pearls at night.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>5. Colaba Causeway</h3>
+            <p>A bustling street market known for its street shopping, handicrafts, souvenirs, and a wide array of cafes and restaurants. Great for experiencing local Mumbai life and food.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>6. Siddhivinayak Temple</h3>
+            <p>A revered Hindu temple dedicated to Lord Ganesha, attracting devotees from all walks of life. An important spiritual and cultural site in Mumbai.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>7. Dhobi Ghat</h3>
+            <p>The world's largest outdoor laundry, a fascinating and unique cultural experience showcasing hundreds of washermen working tirelessly. A great photo opportunity.</p>
+        </div>
+
+        <h2>Recommended Hotels (Standard Budget)</h2>
+        <p>Comfortable and well-located options for a pleasant stay:</p>
+        <ul>
+            <li class="hotel-item"><strong>The Fern Residency, Mumbai:</strong> Eco-friendly hotel offering modern amenities and good connectivity.</li>
+            <li class="hotel-item"><strong>Ginger Mumbai (various locations like Goregaon, Andheri):</strong> Known for clean, smart, and efficient rooms with essential services.</li>
+            <li class="hotel-item"><strong>Keys Select Hotel, Nestor, Mumbai:</strong> A contemporary hotel offering comfort and convenience, usually well-reviewed for service.</li>
+            <li class="hotel-item"><strong>Lemon Tree Premier, Mumbai International Airport:</strong> Convenient for airport access, provides good facilities and comfortable rooms.</li>
+            <li class="hotel-item"><strong>The Shalimar Hotel, Kemps Corner:</strong> A more boutique feel, located in a prime South Mumbai area, offering a blend of tradition and modernity.</li>
+        </ul>
+
+        <h2>Day-wise Itinerary</h2>
+
+        <div class="day-plan">
+            <h3>Day 1: South Mumbai Heritage & Flavors</h3>
+            <ul>
+                <li><strong>Morning (09:00 - 13:00):</strong>
+                    <ul>
+                        <li>Arrive at Mumbai (Mumbai Chhatrapati Shivaji International Airport - BOM).</li>
+                        <li>Check into your pre-booked hotel. Freshen up.</li>
+                        <li>Head to the iconic <span class="highlight">Gateway of India</span>. Enjoy the views and click pictures.</li>
+                        <li>Take a scenic ferry ride to <span class="highlight">Elephanta Island</span> (approx. 1 hour each way). Explore the ancient Elephanta Caves, a UNESCO World Heritage Site.</li>
+                    </ul>
+                </li>
+                <li><strong>Afternoon (13:00 - 17:00):</strong>
+                    <ul>
+                        <li>Return to the mainland.</li>
+                        <li><strong>Lunch:</strong> Savor authentic Parsi cuisine at a local restaurant in Colaba or try street food like Vada Pav from a popular stall.</li>
+                        <li>Explore <span class="highlight">Colaba Causeway</span> for street shopping (souvenirs, handicrafts) and soak in the vibrant atmosphere.</li>
+                    </ul>
+                </li>
+                <li><strong>Evening (17:00 onwards):</strong>
+                    <ul>
+                        <li>Witness a breathtaking sunset at <span class="highlight">Marine Drive</span> (Queen's Necklace). Enjoy a leisurely stroll.</li>
+                        <li><strong>Dinner:</strong> Indulge in fine dining or a casual meal at a restaurant in Kala Ghoda or Nariman Point, offering diverse cuisines.</li>
+                        <li>Return to hotel.</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <div class="day-plan">
+            <h3>Day 2: Culture, Street Life & Departure</h3>
+            <ul>
+                <li><strong>Morning (09:00 - 13:00):</strong>
+                    <ul>
+                        <li>Enjoy breakfast at the hotel or a local cafe.</li>
+                        <li>Visit <span class="highlight">Chhatrapati Shivaji Maharaj Terminus (CSMT)</span> to admire its stunning Victorian Gothic architecture (exterior view and quick walk-through).</li>
+                        <li>Drive past <span class="highlight">Dhobi Ghat</span> to witness the unique spectacle of the world's largest outdoor laundry.</li>
+                        <li>Visit <span class="highlight">Siddhivinayak Temple</span> for a spiritual experience and to witness local devotion (or Haji Ali Dargah based on interest).</li>
+                    </ul>
+                </li>
+                <li><strong>Afternoon (13:00 - 17:00):</strong>
+                    <ul>
+                        <li><strong>Lunch:</strong> Head to Bandra and explore its trendy cafes and restaurants for a delicious meal.</li>
+                        <li>Drive across the impressive <span class="highlight">Bandra-Worli Sea Link</span>, enjoying the panoramic views of the city skyline and the Arabian Sea.</li>
+                        <li>Quick stop at Bandstand Promenade for sea views and celebrity homes spotting (optional).</li>
+                    </ul>
+                </li>
+                <li><strong>Evening (17:00 onwards):</strong>
+                    <ul>
+                        <li>Depending on your flight/train schedule, you might have time for some last-minute souvenir shopping or a relaxing coffee.</li>
+                        <li>Head to Mumbai Airport / Railway Station for your departure back to Delhi, carrying wonderful memories of Mumbai!</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <h2>Budget Breakdown (Estimated for 2 people, 2 days, Standard Category)</h2>
+        <table class="budget-table">
+            <thead>
+                <tr>
+                    <th>Expense Category</th>
+                    <th>Estimated Cost (INR)</th>
+                    <th>Notes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Flights (Delhi-Mumbai-Delhi)</td>
+                    <td>INR 20,000 - 30,000</td>
+                    <td>Round trip for two, can vary greatly based on booking time.</td>
+                </tr>
+                <tr>
+                    <td>Accommodation (2 Nights)</td>
+                    <td>INR 6,000 - 10,000</td>
+                    <td>Standard hotel, INR 3,000 - 5,000 per night.</td>
+                </tr>
+                <tr>
+                    <td>Local Transportation</td>
+                    <td>INR 1,500 - 2,500</td>
+                    <td>Cabs (Ola/Uber), autos, ferry to Elephanta.</td>
+                </tr>
+                <tr>
+                    <td>Food & Beverages</td>
+                    <td>INR 4,000 - 7,000</td>
+                    <td>Mix of local eateries, cafes, and one good dinner. Approx. INR 1,000-1,750 per person per day.</td>
+                </tr>
+                <tr>
+                    <td>Activities & Entry Fees</td>
+                    <td>INR 1,000 - 1,500</td>
+                    <td>Elephanta Caves ferry & entry, any other museum/temple donations.</td>
+                </tr>
+                <tr>
+                    <td>Miscellaneous / Shopping</td>
+                    <td>INR 2,000 - 4,000</td>
+                    <td>Souvenirs, personal expenses, buffer.</td>
+                </tr>
+                <tr>
+                    <td class="highlight"><strong>Total Estimated Budget</strong></td>
+                    <td class="highlight"><strong>INR 34,500 - 55,000</strong></td>
+                    <td>Excluding initial travel to/from Delhi airport/station.</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>Food Suggestions</h2>
+        <p>Mumbai's culinary scene is a delight. Don't miss these local favorites:</p>
+        <ul>
+            <li><strong>Vada Pav:</strong> Mumbai's iconic street food - a spicy potato fritter in a bun.</li>
+            <li><strong>Pav Bhaji:</strong> A rich, spicy vegetable mash served with buttered pav (bread rolls).</li>
+            <li><strong>Misal Pav:</strong> A spicy curry made of sprouts, topped with farsan, onion, lemon, and served with pav.</li>
+            <li><strong>Bombay Sandwich:</strong> A simple yet delicious grilled sandwich with potatoes, tomatoes, onions, and chutney.</li>
+            <li><strong>Pani Puri / Bhel Puri / Sev Puri:</strong> Classic Mumbai chaat items, bursting with flavors.</li>
+            <li><strong>Kanda Bhaji:</strong> Crispy onion fritters, perfect with a cup of chai.</li>
+            <li><strong>Bombil Fry (Bombay Duck):</strong> A local delicacy, especially for seafood lovers.</li>
+            <li><strong>Frankie:</strong> A popular Indian wrap, similar to a Kathi roll.</li>
+            <li><strong>Modak:</strong> A sweet dumpling, especially revered during Ganesh Chaturthi, but available in sweets shops.</li>
+            <li><strong>Mumbai Dabeli:</strong> A sweet and spicy snack made by mixing boiled potatoes with a special dabeli masala.</li>
+        </ul>
+
+        <h2>Packing List</h2>
+        <p>Pack smart for Mumbai's tropical climate and urban exploration:</p>
+        <ul>
+            <li><strong>Lightweight Clothing:</strong> Cotton or linen clothes are ideal due to high humidity.</li>
+            <li><strong>Comfortable Walking Shoes/Sandals:</strong> You'll be doing a lot of walking.</li>
+            <li><strong>Umbrella or Light Raincoat:</strong> Essential if traveling during monsoon (June-September).</li>
+            <li><strong>Sunscreen, Sunglasses, Hat:</strong> Protect yourself from the strong sun.</li>
+            <li><strong>Personal Toiletries & Medications:</strong> Don't forget any essentials.</li>
+            <li><strong>Power Bank & Chargers:</strong> Keep your devices charged for navigation and photos.</li>
+            <li><strong>Camera:</strong> To capture the vibrant city life.</li>
+            <li><strong>Small Backpack/Day Bag:</strong> For daily excursions.</li>
+            <li><strong>Photo ID & Important Documents:</strong> (Tickets, hotel bookings, etc. - keep digital copies too).</li>
+            <li><strong>Hand Sanitizer & Wet Wipes:</strong> Useful for street food and public places.</li>
+        </ul>
+
+        <h2>Travel Tips</h2>
+        <ol>
+            <li class="tip"><strong>Beat the Traffic:</strong> Mumbai traffic can be intense. Plan your travel time accordingly, especially during peak hours. Use ride-sharing apps like Ola/Uber for convenience.</li>
+            <li class="tip"><strong>Stay Hydrated:</strong> Mumbai's humid climate can be dehydrating. Drink plenty of water and fresh juices.</li>
+            <li class="tip"><strong>Bargain Smartly:</strong> When shopping at street markets like Colaba Causeway, don't hesitate to bargain for better prices.</li>
+            <li class="tip"><strong>Savor Street Food (Wisely):</strong> Mumbai's street food is a must-try. Opt for popular and hygienic vendors, and trust your gut feeling.</li>
+            <li class="tip"><strong>Book in Advance:</strong> Especially for flights and popular hotels, booking well in advance can secure better rates and availability.</li>
+            <li class="tip"><strong>Carry Small Denominations:</strong> While UPI and cards are widely accepted, having smaller cash notes is handy for street vendors and local transport.</li>
+        </ol>
+    </div>
+</body>
+</html>
+
+
+Destination: MUMBAI
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: auto; padding: 20px; background-color: #f4f7f6; }
+    h2 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+    .card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+    .highlight { color: #e67e22; font-weight: bold; }
+    ul { padding-left: 20px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+    th { background-color: #3498db; color: white; }
+</style>
+</head>
+<body>
+
+    <h1 style="text-align:center; color: #2c3e50;">Mumbai Romantic Getaway: 2-Day Itinerary</h1>
+
+    <h2>Trip Summary</h2>
+    <div class="card">
+        <p><strong>Route:</strong> Delhi to Mumbai | <strong>Duration:</strong> 2 Days | <strong>Theme:</strong> History, Food, & Adventure | <strong>Travelers:</strong> Couple</p>
+    </div>
+
+    <h2>Tourist Attractions</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Gateway of India:</strong> The iconic arch monument overlooking the Arabian Sea, perfect for a couple's photo.</li>
+            <li><strong>Elephanta Caves:</strong> UNESCO World Heritage site featuring ancient rock-cut cave temples (Adventure: ferry ride included).</li>
+            <li><strong>Chhatrapati Shivaji Maharaj Terminus:</strong> A masterpiece of Victorian Gothic architecture and historic railway station.</li>
+            <li><strong>Marine Drive:</strong> The "Queen’s Necklace" promenade, ideal for a sunset stroll.</li>
+            <li><strong>Haji Ali Dargah:</strong> A stunning mosque located on an islet off the coast, connected by a narrow causeway.</li>
+            <li><strong>Colaba Causeway:</strong> The heart of South Mumbai for history, street shopping, and vintage architecture.</li>
+        </ul>
+    </div>
+
+    <h2>Recommended Hotels (Standard Budget)</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Hotel Sea Princess, Juhu:</strong> Comfortable sea-facing rooms.</li>
+            <li><strong>Bloom Hotel, Colaba:</strong> Modern, clean, and located right in the historical hub.</li>
+            <li><strong>Ginger Mumbai, Andheri:</strong> Reliable, budget-friendly, and convenient for airport access.</li>
+            <li><strong>Hotel Windsor, Colaba:</strong> Heritage feel at an affordable price point.</li>
+            <li><strong>Ibis Mumbai Airport:</strong> Great service and consistent quality for couples.</li>
+        </ul>
+    </div>
+
+    <h2>Day-wise Itinerary</h2>
+    <div class="card">
+        <h3>Day 1: The Historical Heart</h3>
+        <p><strong>Morning:</strong> Arrive in Mumbai, check into your hotel. Head to the <strong>Gateway of India</strong>.</p>
+        <p><strong>Afternoon:</strong> Take the ferry to <strong>Elephanta Caves</strong> (Adventure). Return for lunch at <em>Café Mondegar</em>.</p>
+        <p><strong>Evening:</strong> Explore the <strong>Colaba Causeway</strong> market and end the day with a long walk at <strong>Marine Drive</strong>.</p>
+        
+        <h3>Day 2: Culture & Flavors</h3>
+        <p><strong>Morning:</strong> Visit <strong>CSMT Station</strong> and <strong>Haji Ali Dargah</strong>.</p>
+        <p><strong>Afternoon:</strong> Experience local street food tour in Girgaon Chowpatty.</p>
+        <p><strong>Evening:</strong> Final sunset views at <strong>Bandra Bandstand</strong> before heading to the airport.</p>
+    </div>
+
+    <h2>Budget Breakdown (Per Couple)</h2>
+    <table>
+        <tr><th>Category</th><th>Estimated Cost (INR)</th></tr>
+        <tr><td>Accommodation (2 Nights)</td><td>₹8,000</td></tr>
+        <tr><td>Local Transport (Cabs/Auto)</td><td>₹2,500</td></tr>
+        <tr><td>Food & Dining</td><td>₹4,000</td></tr>
+        <tr><td>Activities (Tickets/Ferry)</td><td>₹1,500</td></tr>
+        <tr><td><strong>Total</strong></td><td><strong>₹16,000</strong></td></tr>
+    </table>
+
+    <h2>Food Suggestions</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Vada Pav:</strong> The quintessential Mumbai street snack.</li>
+            <li><strong>Pav Bhaji:</strong> Best enjoyed at Sardar Pav Bhaji or local stalls at Chowpatty.</li>
+            <li><strong>Bombay Sandwich:</strong> A toasted treat filled with veggies and mint chutney.</li>
+            <li><strong>Parsi Cafe Delicacies:</strong> Try Bun Maska and Irani Chai at Kyani & Co.</li>
+            <li><strong>Seafood:</strong> Fresh fish thali at a local Malvani restaurant.</li>
+        </ul>
+    </div>
+
+    <h2>Packing List</h2>
+    <div class="card">
+        <ul>
+            <li>Breathable cotton clothing (Mumbai is humid).</li>
+            <li>Comfortable walking shoes (Lots of walking involved).</li>
+            <li>Sunscreen, sunglasses, and a wide-brimmed hat.</li>
+            <li>A light rain jacket (if visiting during monsoon).</li>
+            <li>Power bank and camera for historical sites.</li>
+            <li>Hand sanitizer and basic medical kit.</li>
+        </ul>
+    </div>
+
+    <h2>Travel Tips</h2>
+    <div class="card">
+        <ol>
+            <li><strong>Use Local Trains:</strong> Experience the city pulse, but avoid during peak morning/evening office hours.</li>
+            <li><strong>Download Apps:</strong> Use 'Uber' or 'Ola' for reliable cab travel, or 'Chalo' for bus tracking.</li>
+            <li><strong>Hydrate:</strong> Mumbai humidity can be draining; carry a water bottle at all times.</li>
+            <li><strong>Early Starts:</strong> Reach popular spots like Elephanta Caves by 9 AM to avoid midday heat and crowds.</li>
+            <li><strong>Street Food Caution:</strong> Stick to busy, popular food stalls to ensure freshness.</li>
+        </ol>
+    </div>
+
+</body>
+</html>
+
+
+Destination: JAIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Jaipur Trip Itinerary - Friends Edition</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #A0522D; /* Sienna - earthy, royal feel */
+            --secondary-color: #FFD700; /* Gold - luxury accent */
+            --background-color: #F8F4E3; /* Light cream */
+            --text-color: #333333;
+            --light-text-color: #666666;
+            --border-color: #D4B483; /* Muted gold/brown */
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            scroll-behavior: smooth;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid var(--border-color);
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.8em;
+            letter-spacing: 1px;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            color: var(--primary-color);
+            border-bottom: 3px solid var(--secondary-color);
+            padding-bottom: 10px;
+            margin-top: 40px;
+            margin-bottom: 25px;
+            font-size: 2em;
+        }
+
+        h3 {
+            color: var(--primary-color);
+            margin-top: 20px;
+            font-size: 1.4em;
+        }
+
+        p, ul, ol {
+            margin-bottom: 15px;
+            color: var(--light-text-color);
+        }
+
+        ul {
+            list-style-type: disc;
+            margin-left: 25px;
+        }
+
+        ol {
+            list-style-type: decimal;
+            margin-left: 25px;
+        }
+
+        .section-content {
+            padding: 15px 0;
+        }
+
+        .attraction-item, .hotel-item, .food-item {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #fcfcfc;
+            border-left: 5px solid var(--border-color);
+            border-radius: 5px;
+        }
+
+        .day-itinerary {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            border: 1px dashed var(--border-color);
+        }
+
+        .day-itinerary h3 {
+            font-size: 1.6em;
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+
+        .day-itinerary ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .day-itinerary ul li {
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .day-itinerary ul li::before {
+            content: "•";
+            color: var(--secondary-color);
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+            position: absolute;
+            left: 0;
+        }
+
+        .budget-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .budget-table th, .budget-table td {
+            border: 1px solid var(--border-color);
+            padding: 12px;
+            text-align: left;
+        }
+
+        .budget-table th {
+            background-color: var(--primary-color);
+            color: white;
+            font-weight: 600;
+        }
+
+        .budget-table tr:nth-child(even) {
+            background-color: #f5f5f5;
+        }
+
+        .budget-table strong {
+            color: var(--primary-color);
+        }
+
+        .tip-item {
+            margin-bottom: 10px;
+            padding-left: 25px;
+            position: relative;
+        }
+        .tip-item::before {
+            content: "💡"; /* Lightbulb emoji for tips */
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px;
+            color: var(--light-text-color);
+            font-size: 0.9em;
+            border-top: 1px solid var(--border-color);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                padding: 15px;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.6em;
+            }
+            h3 {
+                font-size: 1.2em;
+            }
+            .day-itinerary {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Maharaja's Delight: A Luxury Jaipur Getaway for Friends</h1>
+
+        <h2>Trip Summary</h2>
+        <div class="section-content">
+            <p>Embark on an opulent 7-day journey from Delhi to the heart of Rajasthan, Jaipur – the Pink City. This luxury trip is crafted for friends seeking a blend of rich history, thrilling fun spots, and an unforgettable culinary adventure. Experience regal stays, explore magnificent forts and palaces, indulge in gourmet Rajasthani cuisine, and create lasting memories in a city that truly lives up to its royal heritage.</p>
+            <ul>
+                <li><strong>Source:</strong> DELHI</li>
+                <li><strong>Destination:</strong> JAIPUR</li>
+                <li><strong>Budget Category:</strong> Luxury</li>
+                <li><strong>Days:</strong> 7</li>
+                <li><strong>Interests:</strong> HISTORY, fun spots, food</li>
+                <li><strong>Trip Type:</strong> Friends</li>
+            </ul>
+        </div>
+
+        <h2>Tourist Attractions</h2>
+        <div class="section-content">
+            <div class="attraction-item">
+                <h3>1. Amber Fort (Amer Fort)</h3>
+                <p>A majestic fort-palace complex known for its artistic Hindu style elements. Perched high on a hill, it offers stunning views and houses beautiful palaces, halls, and gardens. Enjoy an elephant ride or jeep safari up to the fort.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>2. Hawa Mahal (Palace of Winds)</h3>
+                <p>An iconic five-story palace built of red and pink sandstone, famous for its unique honeycomb-like exterior with 953 small windows. It allowed royal ladies to observe street festivities without being seen.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>3. City Palace</h3>
+                <p>A sprawling complex that houses several palaces, courtyards, gardens, and museums. It reflects a blend of Rajasthani and Mughal architecture, showcasing royal history, artifacts, and exquisite textiles.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>4. Jantar Mantar</h3>
+                <p>An astronomical observatory site built by Maharaja Sawai Jai Singh II. It features a collection of nineteen architectural astronomical instruments, including the world's largest stone sundial, allowing observation of celestial bodies with the naked eye.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>5. Nahargarh Fort</h3>
+                <p>Standing on the edge of the Aravalli Hills, Nahargarh Fort provides breathtaking panoramic views of Jaipur, especially at sunset. It's an ideal spot for photography and has a restaurant for a royal dining experience.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>6. Jaigarh Fort</h3>
+                <p>Known for housing the 'Jaivana' – the world's largest cannon on wheels. This formidable fort was built for military purposes and offers commanding views of Amber Fort and the surrounding landscape.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>7. Albert Hall Museum</h3>
+                <p>Rajasthan's oldest museum, housed in an exquisite Indo-Saracenic building. It displays a rich collection of artifacts including paintings, carpets, ivory, precious stones, sculptures, and an Egyptian mummy.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>8. Patrika Gate</h3>
+                <p>A vibrant, relatively new attraction, serving as an entrance to Jawahar Circle Garden. Its arches are adorned with intricate, colorful frescoes depicting various aspects of Rajasthan's culture and history, making it a perfect spot for photography.</p>
+            </div>
+            <div class="attraction-item">
+                <h3>9. Jal Mahal (Water Palace)</h3>
+                <p>A beautiful palace seemingly floating in the middle of Man Sagar Lake. While entry to the palace is restricted, its serene beauty and picturesque setting make it a popular spot for photography and leisurely viewing.</p>
+            </div>
+        </div>
+
+        <h2>Recommended Hotels</h2>
+        <div class="section-content">
+            <p>Indulge in the finest hospitality Jaipur has to offer, with these luxurious hotel options perfect for a group of friends:</p>
+            <div class="hotel-item">
+                <h3>1. Rambagh Palace, a Taj Hotel</h3>
+                <p>The former residence of the Maharaja of Jaipur, now a magnificent luxury hotel. It offers unparalleled grandeur, exquisite suites, sprawling gardens, and exceptional service, promising a truly royal experience.</p>
+            </div>
+            <div class="hotel-item">
+                <h3>2. The Oberoi Rajvilas Jaipur</h3>
+                <p>Set amidst 32 acres of landscaped gardens, this award-winning hotel offers luxury villas and tents with private pools. Known for its serene ambiance, impeccable service, and traditional Rajasthani architecture.</p>
+            </div>
+            <div class="hotel-item">
+                <h3>3. The Leela Palace Jaipur</h3>
+                <p>A modern palace hotel that celebrates the artisanal heritage of Rajasthan. It features lavish rooms, multiple dining options, a stunning outdoor pool, and world-class spa facilities.</p>
+            </div>
+            <div class="hotel-item">
+                <h3>4. Jai Mahal Palace, a Taj Hotel</h3>
+                <p>A 270-year-old Indo-Saracenic architectural masterpiece set amidst 18 acres of landscaped Mughal gardens. It offers a blend of historic charm and modern luxury, with elegant rooms and fine dining.</p>
+            </div>
+            <div class="hotel-item">
+                <h3>5. ITC Rajputana, a Luxury Collection Hotel</h3>
+                <p>Inspired by the Havelis of Rajasthan, this hotel offers a regal stay with traditional architecture, luxurious rooms, an excellent spa, and diverse culinary experiences, located conveniently in the city.</p>
+            </div>
+        </div>
+
+        <h2>Day-wise Itinerary</h2>
+        <div class="section-content">
+            <div class="day-itinerary">
+                <h3>Day 1: Arrival & Heritage Welcome</h3>
+                <ul>
+                    <li><strong>Morning (10:00 AM):</strong> Depart from Delhi via a luxury AC car or a short flight to Jaipur.</li>
+                    <li><strong>Afternoon (01:00 PM):</strong> Arrive in Jaipur, check into your chosen luxury hotel (e.g., Rambagh Palace). Enjoy a leisurely lunch at the hotel's fine dining restaurant.</li>
+                    <li><strong>Late Afternoon (04:00 PM):</strong> Visit Patrika Gate for stunning photo opportunities and to marvel at its vibrant artistry.</li>
+                    <li><strong>Evening (07:00 PM):</strong> Indulge in a royal welcome dinner at a high-end restaurant like "Shri Niwas" at City Palace or "Suvarna Mahal" at Rambagh Palace, savoring traditional Rajasthani thali.</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 2: Royal Grandeur & City Exploration</h3>
+                <ul>
+                    <li><strong>Morning (09:00 AM):</strong> Explore the opulent City Palace, including its museums and courtyards.</li>
+                    <li><strong>Late Morning (11:30 AM):</strong> Walk over to Jantar Mantar, the fascinating astronomical observatory, with a private guide.</li>
+                    <li><strong>Lunch (01:30 PM):</strong> Enjoy a gourmet lunch at a well-regarded city restaurant or a boutique cafe.</li>
+                    <li><strong>Afternoon (03:30 PM):</strong> Marvel at the exterior of Hawa Mahal (Palace of Winds) and capture its iconic beauty.</li>
+                    <li><strong>Evening (05:00 PM):</strong> Leisurely stroll through Johari Bazaar, known for its exquisite jewelry, gemstones, and handicrafts.</li>
+                    <li><strong>Night (08:00 PM):</strong> Dinner at a rooftop restaurant offering city views, like "Baradari" at City Palace.</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 3: Forts, Stepwells & Sunset Spectacle</h3>
+                <ul>
+                    <li><strong>Morning (09:00 AM):</strong> Head to Amber Fort. Enjoy a private jeep safari or an ethical elephant ride (pre-booked) up to the fort. Explore its intricate palaces and enjoy the panoramic views.</li>
+                    <li><strong>Late Morning (12:00 PM):</strong> Visit the beautiful Panna Meena ka Kund, a historic stepwell near Amber Fort.</li>
+                    <li><strong>Lunch (01:30 PM):</strong> Lunch at a restaurant near Amber Fort, such as "1135 AD" for a regal dining experience.</li>
+                    <li><strong>Afternoon (03:30 PM):</strong> Proceed to Jaigarh Fort to see the massive Jaivana cannon and explore its ramparts.</li>
+                    <li><strong>Late Afternoon (05:30 PM):</strong> Drive to Nahargarh Fort to witness a breathtaking sunset over the Pink City.</li>
+                    <li><strong>Evening (07:30 PM):</strong> Dinner at "Once Upon A Time at Nahargarh" restaurant within Nahargarh Fort for a magical ambiance.</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 4: Museums, Markets & Cultural Immersion</h3>
+                <ul>
+                    <li><strong>Morning (10:00 AM):</strong> Immerse yourselves in history and art at the Albert Hall Museum.</li>
+                    <li><strong>Lunch (01:00 PM):</strong> Experience a traditional Rajasthani Thali for lunch at a local specialty restaurant.</li>
+                    <li><strong>Afternoon (02:30 PM):</strong> Explore the bustling local markets – Bapu Bazaar for textiles and leather goods, and Tripolia Bazaar for bangles and lac jewelry. Practice your bargaining skills!</li>
+                    <li><strong>Evening (06:00 PM):</strong> Head to Chokhi Dhani, an ethnic village resort. Enjoy traditional Rajasthani folk performances, camel rides, magic shows, and a lavish authentic dinner. (A quintessential "fun spot").</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 5: Serenity, Wildlife & Leisure</h3>
+                <ul>
+                    <li><strong>Morning (09:30 AM):</strong> Visit Jal Mahal (Water Palace) for picturesque views from the roadside.</li>
+                    <li><strong>Late Morning (10:30 AM):</strong> Return to your hotel for some leisure time. Enjoy the hotel's luxurious amenities – perhaps a swim or a rejuvenating spa session.</li>
+                    <li><strong>Lunch (01:00 PM):</strong> A relaxed al-fresco lunch at your hotel or a garden cafe.</li>
+                    <li><strong>Afternoon (03:30 PM):</strong> Experience ethical elephant interaction at Dera Amer. Enjoy feeding, bathing, and painting elephants in a natural, responsible environment (pre-booking essential).</li>
+                    <li><strong>Evening (07:30 PM):</strong> Enjoy a quiet, elegant dinner at one of the hotel's specialty restaurants.</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 6: Art, Craft & Culinary Masterclass</h3>
+                <ul>
+                    <li><strong>Morning (10:00 AM):</strong> Visit a local art gallery or participate in a traditional block printing workshop to explore Jaipur's rich artistic heritage.</li>
+                    <li><strong>Lunch (01:00 PM):</strong> A light lunch at a charming cafe.</li>
+                    <li><strong>Afternoon (02:30 PM):</strong> Join a private Rajasthani cooking class to learn the secrets of local delicacies like Dal Bati Churma, Gatte ki Sabzi, or Laal Maas. Enjoy the fruits of your labor for an early dinner.</li>
+                    <li><strong>Evening (07:30 PM):</strong> Farewell dinner at a sophisticated restaurant like "Dragon House" (for Asian fusion) or revisit a favorite spot.</li>
+                </ul>
+            </div>
+
+            <div class="day-itinerary">
+                <h3>Day 7: Last Souvenirs & Departure</h3>
+                <ul>
+                    <li><strong>Morning (09:00 AM):</strong> Enjoy a final lavish breakfast at your hotel.</li>
+                    <li><strong>Late Morning (10:30 AM):</strong> Do some last-minute souvenir shopping for specific items you might have missed or for gifts.</li>
+                    <li><strong>Noon (12:00 PM):</strong> Check out from the hotel.</li>
+                    <li><strong>Afternoon (01:00 PM):</strong> Depart from Jaipur for Delhi via luxury AC car or flight, carrying cherished memories of the Pink City.</li>
+                </ul>
+            </div>
+        </div>
+
+        <h2>Budget Breakdown (Estimated for 4 friends, per person for 7 days)</h2>
+        <div class="section-content">
+            <p>This is an estimated budget for a luxurious trip. Prices can vary based on hotel choice, dining preferences, and specific activities.</p>
+            <table class="budget-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Estimated Cost (INR)</th>
+                        <th>Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Travel (Delhi-Jaipur-Delhi)</strong></td>
+                        <td>₹8,000 - ₹15,000</td>
+                        <td>Round trip via premium AC car or flight.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Accommodation (6 Nights)</strong></td>
+                        <td>₹50,000 - ₹80,000</td>
+                        <td>Luxury hotels (sharing basis, e.g., ₹20,000-₹30,000/night room rate divided by 2-3 people).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Local Transport (Private AC Car)</strong></td>
+                        <td>₹8,000 - ₹12,000</td>
+                        <td>Full-day private AC sedan/SUV with driver (approx. ₹4,000-₹6,000/day, divided by 4 friends).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Food & Drinks</strong></td>
+                        <td>₹25,000 - ₹40,000</td>
+                        <td>Fine dining, specialty restaurants, cafes, beverages (approx. ₹4,000-₹6,000/day).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Activities & Entry Fees</strong></td>
+                        <td>₹7,000 - ₹10,000</td>
+                        <td>Amber Fort, City Palace, Jantar Mantar, Chokhi Dhani, Dera Amer, cooking class, etc.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Shopping & Miscellaneous</strong></td>
+                        <td>₹15,000 - ₹30,000</td>
+                        <td>Souvenirs, personal expenses, tips, unexpected costs.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Estimated Cost Per Person</strong></td>
+                        <td><strong>₹113,000 - ₹187,000</strong></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong>Note:</strong> These are per-person estimates. Booking as a group often provides better rates, especially for hotels and private transport.</p>
+        </div>
+
+        <h2>Food Suggestions</h2>
+        <div class="section-content">
+            <p>Jaipur is a paradise for food lovers. Don't miss these local delights:</p>
+            <div class="food-item">
+                <h3>1. Dal Bati Churma</h3>
+                <p>The iconic Rajasthani dish! Hard wheat balls (bati) baked in a clay oven, served with a rich lentil curry (dal) and a sweet crumbly mix of wheat, ghee, and jaggery (churma).</p>
+            </div>
+            <div class="food-item">
+                <h3>2. Laal Maas</h3>
+                <p>A fiery red meat curry (traditionally lamb or mutton) prepared with a generous amount of red chilies and a blend of aromatic spices. A must-try for non-vegetarian enthusiasts.</p>
+            </div>
+            <div class="food-item">
+                <h3>3. Ghewar</h3>
+                <p>A traditional Rajasthani sweet, especially popular during festivals. It's a disc-shaped dessert made from flour, soaked in sugar syrup, and often topped with mawa, nuts, or rabri.</p>
+            </div>
+            <div class="food-item">
+                <h3>4. Pyaz Kachori</h3>
+                <p>A popular savory snack. Deep-fried, flaky pastry filled with a spicy onion mixture, best enjoyed with mint and tamarind chutneys.</p>
+            </div>
+            <div class="food-item">
+                <h3>5. Mirchi Bada</h3>
+                <p>Another beloved snack, featuring large green chilies stuffed with a spicy potato filling, dipped in gram flour batter, and deep-fried until golden.</p>
+            </div>
+            <div class="food-item">
+                <h3>6. Rajasthani Thali</h3>
+                <p>For a complete culinary experience, opt for a traditional Rajasthani Thali, offering a platter of various curries, breads, rice, and sweets.</p>
+            </div>
+            <div class="food-item">
+                <h3>7. Kulfi</h3>
+                <p>A traditional Indian frozen dairy dessert, similar to ice cream but denser and creamier, available in various flavors like pistachio, mango, rose, and malai.</p>
+            </div>
+        </div>
+
+        <h2>Packing List</h2>
+        <div class="section-content">
+            <p>Here's a list of essentials to make your luxury Jaipur trip comfortable and stylish:</p>
+            <ul>
+                <li><strong>Clothing:</strong>
+                    <ul>
+                        <li>Lightweight cotton/linen clothes for daytime (Jaipur can be hot).</li>
+                        <li>A light jacket, shawl, or cardigan for cooler evenings or air-conditioned indoors.</li>
+                        <li>Semi-formal attire for luxury dining experiences.</li>
+                        <li>Swimwear if your hotel has a pool.</li>
+                    </ul>
+                </li>
+                <li><strong>Footwear:</strong>
+                    <ul>
+                        <li>Comfortable walking shoes/sandals for sightseeing.</li>
+                        <li>A pair of dressier shoes for evenings.</li>
+                    </ul>
+                </li>
+                <li><strong>Sun Protection:</strong>
+                    <ul>
+                        <li>Sunscreen (high SPF)</li>
+                        <li>Wide-brimmed hat or cap</li>
+                        <li>Sunglasses</li>
+                    </ul>
+                </li>
+                <li><strong>Health & Hygiene:</strong>
+                    <ul>
+                        <li>Personal toiletries (though luxury hotels provide excellent ones)</li>
+                        <li>Basic first-aid kit (band-aids, antiseptic wipes, pain relievers, any personal medications)</li>
+                        <li>Hand sanitizer</li>
+                        <li>Insect repellent (especially for outdoor evening activities)</li>
+                    </ul>
+                </li>
+                <li><strong>Electronics:</strong>
+                    <ul>
+                        <li>Camera with extra batteries/memory cards</li>
+                        <li>Power bank/portable charger</li>
+                        <li>Universal travel adapter (if needed)</li>
+                        <li>Mobile phone & charger</li>
+                    </ul>
+                </li>
+                <li><strong>Documents:</strong>
+                    <ul>
+                        <li>ID proof (Aadhar/Passport) & copies</li>
+                        <li>Flight/Train tickets, hotel booking confirmations (digital & printouts)</li>
+                        <li>Travel insurance details</li>
+                    </ul>
+                </li>
+                <li><strong>Miscellaneous:</strong>
+                    <ul>
+                        <li>Small backpack/day bag for daily excursions</li>
+                        <li>Reusable water bottle</li>
+                        <li>Cash (for small purchases, tips, street food)</li>
+                        <li>Small umbrella or rain jacket (if traveling during monsoon season)</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <h2>Travel Tips</h2>
+        <div class="section-content">
+            <ol>
+                <li class="tip-item"><strong>Stay Hydrated:</strong> Rajasthan can get very hot, especially during the day. Drink plenty of water and carry a reusable water bottle.</li>
+                <li class="tip-item"><strong>Dress Respectfully:</strong> When visiting religious sites like temples or parts of palaces, it's advisable to dress modestly, covering shoulders and knees. Carry a scarf for women.</li>
+                <li class="tip-item"><strong>Bargain Politely:</strong> When shopping in local markets (like Johari or Bapu Bazaar), polite bargaining is expected and can help you get a better deal.</li>
+                <li class="tip-item"><strong>Pre-book Experiences:</strong> For a luxury trip, pre-book your chosen hotels, private transport, guided tours, and special activities (like Dera Amer or a cooking class) to ensure seamless and exclusive experiences.</li>
+                <li class="tip-item"><strong>Embrace Local Cuisine:</strong> Don't shy away from trying the local Rajasthani delicacies. Jaipur offers excellent hygienic options from street food to fine dining. Ask your hotel concierge for trusted recommendations.</li>
+            </ol>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2023 Luxury Jaipur Itinerary. Crafted with care for your unforgettable journey!</p>
+    </footer>
+</body>
+</html>
+
+
+Destination: JAIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: auto; padding: 20px; background-color: #f4f4f9; }
+        h1 { color: #d35400; text-align: center; }
+        h2 { color: #2c3e50; border-bottom: 2px solid #d35400; padding-bottom: 5px; }
+        .section { background: white; padding: 20px; margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        ul { margin: 10px 0; }
+        .day { font-weight: bold; color: #d35400; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f8f8; }
+    </style>
+</head>
+<body>
+
+    <h1>Luxury Family Escape: Delhi to Jaipur (7 Days)</h1>
+
+    <div class="section">
+        <h2>Trip Summary</h2>
+        <p>Experience the royal grandeur of the Pink City. This 7-day luxury itinerary is curated for families, balancing historical exploration with leisurely fun and the rich culinary heritage of Rajasthan.</p>
+    </div>
+
+    <div class="section">
+        <h2>Tourist Attractions</h2>
+        <ul>
+            <li><strong>Amer Fort:</strong> A majestic hilltop fort known for its artistic Hindu style elements and breathtaking views.</li>
+            <li><strong>City Palace:</strong> The royal residence, showcasing a blend of Rajasthani and Mughal architecture.</li>
+            <li><strong>Hawa Mahal:</strong> The "Palace of Winds," an iconic five-story structure with 953 small windows.</li>
+            <li><strong>Jantar Mantar:</strong> An astronomical observatory featuring the world's largest stone sundial.</li>
+            <li><strong>Nahargarh Biological Park:</strong> A fun spot for families to see wildlife and enjoy nature trails.</li>
+            <li><strong>Chokhi Dhani:</strong> An ethnic village resort offering a deep dive into Rajasthani culture, music, and food.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Recommended Hotels (Luxury)</h2>
+        <ol>
+            <li>Rambagh Palace (The ultimate royal experience)</li>
+            <li>The Oberoi Rajvilas</li>
+            <li>Taj Jai Mahal Palace</li>
+            <li>Samode Haveli</li>
+            <li>ITC Rajputana, A Luxury Collection Hotel</li>
+        </ol>
+    </div>
+
+    <div class="section">
+        <h2>Day-wise Itinerary</h2>
+        <p><span class="day">Day 1:</span> Arrival in Jaipur, check-in to Palace hotel, evening leisure at the resort.</p>
+        <p><span class="day">Day 2:</span> Explore Amer Fort in the morning and Panna Meena ka Kund (stepwell).</p>
+        <p><span class="day">Day 3:</span> City Palace and Jantar Mantar; evening shopping for gems and textiles at Johari Bazaar.</p>
+        <p><span class="day">Day 4:</span> Nahargarh Fort for sunrise, followed by an afternoon at Nahargarh Biological Park.</p>
+        <p><span class="day">Day 5:</span> Cooking class with a local family; evening visit to Chokhi Dhani for cultural performances.</p>
+        <p><span class="day">Day 6:</span> Visit Jal Mahal and Birla Mandir; farewell luxury dinner at Bar Palladio.</p>
+        <p><span class="day">Day 7:</span> Leisurely breakfast and drive back to Delhi.</p>
+    </div>
+
+    <div class="section">
+        <h2>Budget Breakdown (Per Couple)</h2>
+        <table>
+            <tr><th>Item</th><th>Estimated Cost (INR)</th></tr>
+            <tr><td>Luxury Accommodation (6 nights)</td><td>1,50,000</td></tr>
+            <tr><td>Fine Dining & Local Food</td><td>40,000</td></tr>
+            <tr><td>Private Chauffeur & Transfers</td><td>20,000</td></tr>
+            <tr><td>Entry Fees & Guided Tours</td><td>15,000</td></tr>
+            <tr><td>Shopping & Miscellaneous</td><td>25,000</td></tr>
+            <tr><td><strong>Total</strong></td><td><strong>2,50,000</strong></td></tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Food Suggestions</h2>
+        <ul>
+            <li><strong>Dal Baati Churma:</strong> The quintessential Rajasthani meal.</li>
+            <li><strong>Laal Maas:</strong> A spicy mutton curry for non-vegetarian lovers.</li>
+            <li><strong>Ghevar:</strong> A famous local sweet disc-shaped dessert.</li>
+            <li><strong>Pyaaz Kachori:</strong> Best enjoyed at Rawat Mishtan Bhandar.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Packing List</h2>
+        <ul>
+            <li>Light cotton clothes for the day; light jacket for desert evenings.</li>
+            <li>Comfortable walking shoes for forts.</li>
+            <li>Sunglasses, hats, and high-SPF sunscreen.</li>
+            <li>Power bank and camera gear.</li>
+            <li>Ethnic wear for the Chokhi Dhani cultural evening.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Travel Tips</h2>
+        <ol>
+            <li>Hire a private cab for the entire duration for maximum convenience.</li>
+            <li>Visit monuments early (8:00 AM) to avoid the afternoon heat and large crowds.</li>
+            <li>Always carry a water bottle; stay hydrated.</li>
+            <li>Respect photography restrictions inside private areas of palaces.</li>
+            <li>Learn a few basic phrases in Hindi or Rajasthani to interact with locals.</li>
+        </ol>
+    </div>
+
+</body>
+</html>
+
+
+Destination: JAJIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Family Trip: Delhi to Jajpur (6 Days)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-family: 'Playfair Display', serif;
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            color: #2980b9;
+            margin-top: 40px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #3498db;
+            font-size: 1.8em;
+        }
+        h3 {
+            color: #e67e22;
+            margin-top: 25px;
+            font-size: 1.2em;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        ol {
+            list-style-type: decimal;
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .section-summary, .section-budget {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-left: 5px solid #3498db;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .attraction-item, .hotel-item {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+        }
+        .attraction-item strong, .hotel-item strong {
+            color: #2c3e50;
+        }
+        .day-itinerary {
+            background-color: #eaf2f8;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #2980b9;
+        }
+        .day-itinerary strong {
+            color: #2980b9;
+        }
+        .budget-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .budget-table th, .budget-table td {
+            border: 1px solid #ccc;
+            padding: 10px;
+            text-align: left;
+        }
+        .budget-table th {
+            background-color: #34495e;
+            color: #fff;
+            font-weight: bold;
+        }
+        .budget-table tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .food-item, .packing-item, .tip-item {
+            background-color: #fdf3e7;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-left: 3px solid #e67e22;
+            border-radius: 3px;
+        }
+        .food-item strong, .packing-item strong, .tip-item strong {
+            color: #e67e22;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Luxury Family Trip to Jajpur, Odisha</h1>
+
+        <div class="section-summary">
+            <h2>Trip Summary</h2>
+            <p><strong>Source:</strong> Delhi</p>
+            <p><strong>Destination:</strong> Jajpur, Odisha</p>
+            <p><strong>Budget Category:</strong> Luxury</p>
+            <p><strong>Days:</strong> 6</p>
+            <p><strong>Interests:</strong> History, Food, Adventure</p>
+            <p><strong>Trip Type:</strong> Family</p>
+            <p>
+                Embark on a captivating 6-day luxury family adventure to Jajpur, Odisha, from Delhi. This meticulously planned itinerary blends rich historical exploration, delightful culinary experiences, and thrilling adventure, promising an unforgettable journey through ancient spiritual sites, serene natural landscapes, and the vibrant culture of Odisha.
+            </p>
+        </div>
+
+        <h2>Tourist Attractions</h2>
+        <div class="attraction-item">
+            <h3>1. Maa Biraja Temple</h3>
+            <p>An ancient and highly revered Shakti Peeth dedicated to Goddess Biraja. The temple complex is known for its unique rituals and vibrant spiritual atmosphere, a cornerstone of Jajpur's identity.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>2. Ratnagiri Buddhist Monastery</h3>
+            <p>Part of the famous "Diamond Triangle" of Buddhist sites (Ratnagiri, Udayagiri, Lalitgiri), Ratnagiri is a significant Buddhist monastery dating back to the 6th century. It features impressive stupas, monasteries, and intricate sculptures, offering a glimpse into ancient Buddhist learning centers.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>3. Udayagiri Buddhist Monastery</h3>
+            <p>Another prominent Buddhist complex showcasing extensive ruins, rock-cut sculptures, and a large stupa. Udayagiri provides deep insights into the architectural and artistic prowess of ancient Odisha.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>4. Lalitgiri Buddhist Complex</h3>
+            <p>The third site of the Diamond Triangle, Lalitgiri is believed to be one of the oldest Buddhist settlements in Odisha. Recent excavations have unearthed valuable artifacts, including reliquaries believed to contain relics of Buddha.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>5. Dashashwamedha Ghat</h3>
+            <p>Located on the banks of the sacred Baitarani River, this ghat is a significant pilgrimage spot. It's known for its religious ceremonies and the tranquil ambiance, especially during sunset.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>6. Barahanath Temple</h3>
+            <p>Dedicated to Lord Varaha (an incarnation of Vishnu), this temple is another important religious site in Jajpur, known for its unique idol and architectural style.</p>
+        </div>
+        <div class="attraction-item">
+            <h3>7. Chandi Mandir</h3>
+            <p>A revered temple dedicated to Goddess Chandi, popular among local devotees, offering a vibrant cultural experience.</p>
+        </div>
+
+        <h2>Recommended Hotels</h2>
+        <p>While Jajpur itself is not a metropolitan hub for luxury hotels, these options offer the best available comfort and amenities in and around the region, suitable for a luxury family trip. For ultimate luxury, options in nearby Bhubaneswar/Cuttack are also listed as potential bases for day trips.</p>
+        <div class="hotel-item">
+            <h3>1. Hotel Mirabel, Jajpur Town</h3>
+            <p><strong>Category:</strong> Premium Local Luxury</p>
+            <p>One of the finest hotels directly in Jajpur, offering modern amenities, comfortable rooms, and good dining options. Ideal for staying close to the historical sites.</p>
+        </div>
+        <div class="hotel-item">
+            <h3>2. Hotel Zaika, Jajpur Road</h3>
+            <p><strong>Category:</strong> Premium Local Luxury</p>
+            <p>A well-regarded establishment near Jajpur Road, known for its quality service, spacious rooms, and multi-cuisine restaurant. A reliable choice for families.</p>
+        </div>
+        <div class="hotel-item">
+            <h3>3. Hotel Royal Palace, Jajpur Road</h3>
+            <p><strong>Category:</strong> Upper Mid-Range</p>
+            <p>Offers comfortable accommodations and essential services, making it a good value luxury option for families looking for a pleasant stay in the region.</p>
+        </div>
+        <div class="hotel-item">
+            <h3>4. The Crown, Cuttack</h3>
+            <p><strong>Category:</strong> 4-Star Luxury (approx. 70 km from Jajpur)</p>
+            <p>If you prefer a higher standard of city luxury and don't mind a slightly longer drive to Jajpur (approx 1.5-2 hours), The Crown in Cuttack provides excellent facilities including a swimming pool, multiple restaurants, and elegant rooms.</p>
+        </div>
+        <div class="hotel-item">
+            <h3>5. MAYFAIR Lagoon, Bhubaneswar</h3>
+            <p><strong>Category:</strong> 5-Star Ultra Luxury (approx. 100 km from Jajpur)</p>
+            <p>For an unparalleled luxury experience, consider staying at MAYFAIR Lagoon in Bhubaneswar for the first/last night or as a base for day trips to Jajpur (approx 2.5-3 hours drive each way). It offers world-class amenities, exquisite dining, and sprawling landscapes.</p>
+        </div>
+
+        <h2>Day-wise Itinerary</h2>
+        <div class="day-itinerary">
+            <h3>Day 1: Arrival in Jajpur & Local Immersion</h3>
+            <ul>
+                <li><strong>Morning:</strong> Depart from Delhi by flight to Biju Patnaik International Airport (BBI), Bhubaneswar.</li>
+                <li><strong>Afternoon:</strong> Private luxury transfer from Bhubaneswar Airport to Jajpur (approx. 2.5-3 hours drive). Check into your chosen luxury hotel.</li>
+                <li><strong>Evening:</strong> Relax and unwind at the hotel. Enjoy a welcome dinner at the hotel's specialty restaurant, savoring your first taste of Odia cuisine.</li>
+            </ul>
+        </div>
+        <div class="day-itinerary">
+            <h3>Day 2: Ancient Temples & Sacred Ghats</h3>
+            <ul>
+                <li><strong>Morning:</strong> Visit the revered <strong>Maa Biraja Temple</strong>, immersing yourselves in its spiritual aura and intricate architecture.</li>
+                <li><strong>Afternoon:</strong> Explore <strong>Dashashwamedha Ghat</strong> on the sacred Baitarani River. Witness local rituals and enjoy the serene riverside atmosphere. Visit the nearby <strong>Barahanath Temple</strong>.</li>
+                <li><strong>Evening:</strong> Leisure time. Consider a relaxing boat ride on the Baitarani River (seasonal/availability permitting) or explore local markets.</li>
+            </ul>
+        </div>
+        <div class="day-itinerary">
+            <h3>Day 3: The Buddhist Diamond Triangle</h3>
+            <ul>
+                <li><strong>Full Day Excursion:</strong> Embark on a historical journey to the Buddhist Diamond Triangle.</li>
+                <li><strong>Morning:</strong> Start with <strong>Ratnagiri Buddhist Monastery</strong>, exploring its stupas, monasteries, and museum.</li>
+                <li><strong>Mid-day:</strong> Proceed to <strong>Udayagiri Buddhist Monastery</strong>, known for its extensive ruins and rock-cut sculptures.</li>
+                <li><strong>Afternoon:</strong> Conclude your Buddhist circuit at <strong>Lalitgiri Buddhist Complex</strong>, an ancient site with fascinating archaeological findings. Consider hiring a local expert guide for in-depth insights into these sites.</li>
+                <li><strong>Evening:</strong> Return to Jajpur. Enjoy a relaxed dinner, perhaps trying a different local restaurant.</li>
+            </ul>
+        </div>
+        <div class="day-itinerary">
+            <h3>Day 4: Nature & Rural Charm / Local Exploration</h3>
+            <ul>
+                <li><strong>Morning:</strong> Drive to <strong>Chandikhol Hills</strong> for some light trekking or a scenic view of the surrounding landscape. Alternatively, visit a local village to experience rural Odia life and interact with artisans.</li>
+                <li><strong>Afternoon:</strong> Explore the local Jajpur market for souvenirs and local handicrafts. Or, visit a specific local artisan's workshop if any special crafts are prominent nearby.</li>
+                <li><strong>Evening:</strong> Indulge in a special Odia culinary experience at a top-rated local restaurant, focusing on authentic regional dishes.</li>
+            </ul>
+        </div>
+        <div class="day-itinerary">
+            <h3>Day 5: Adventure at Bhitarkanika National Park</h3>
+            <ul>
+                <li><strong>Early Morning:</strong> Embark on an exciting full-day adventure to <strong>Bhitarkanika National Park</strong> (approx. 3-4 hours drive each way).</li>
+                <li><strong>Full Day:</strong> Explore the park's dense mangrove forests via a thrilling boat safari. Spot saltwater crocodiles, various species of birds, deer, and other wildlife. Visit the Interpretation Centre to learn more about the ecosystem. (Packed lunch recommended).</li>
+                <li><strong>Late Afternoon:</strong> Drive back to Jajpur.</li>
+                <li><strong>Evening:</strong> Enjoy a farewell dinner at your hotel or a recommended upscale restaurant, reflecting on your adventurous journey.</li>
+            </ul>
+        </div>
+        <div class="day-itinerary">
+            <h3>Day 6: Departure</h3>
+            <ul>
+                <li><strong>Morning:</strong> Enjoy a leisurely breakfast at the hotel. Depending on your flight schedule, you might have time for some last-minute souvenir shopping or a relaxing stroll.</li>
+                <li><strong>Late Morning/Afternoon:</strong> Check out from the hotel.</li>
+                <li><strong>Afternoon:</strong> Private luxury transfer back to Bhubaneswar Airport for your flight to Delhi, carrying cherished memories of Jajpur.</li>
+            </ul>
+        </div>
+
+        <div class="section-budget">
+            <h2>Budget Breakdown (Estimated for a Family of 4)</h2>
+            <p>This budget is for a luxury experience, allowing for comfort, premium services, and fine dining.</p>
+            <table class="budget-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Estimated Cost Range (INR)</th>
+                        <th>Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Flights (Delhi-Bhubaneswar-Delhi)</td>
+                        <td>₹60,000 - ₹80,000</td>
+                        <td>Economy/Premium Economy on a full-service carrier. Varies based on booking time.</td>
+                    </tr>
+                    <tr>
+                        <td>Accommodation (5 nights)</td>
+                        <td>₹40,000 - ₹75,000</td>
+                        <td>Luxury hotels in/near Jajpur (₹8,000 - ₹15,000 per night for a family room/suite).</td>
+                    </tr>
+                    <tr>
+                        <td>Local Transport</td>
+                        <td>₹20,000 - ₹30,000</td>
+                        <td>Private AC sedan/SUV with driver for 5 full days, including airport transfers and Bhitarkanika trip.</td>
+                    </tr>
+                    <tr>
+                        <td>Food & Dining</td>
+                        <td>₹25,000 - ₹40,000</td>
+                        <td>Luxury dining, specialty restaurants, trying local delicacies, snacks. (₹5,000 - ₹8,000 per day).</td>
+                    </tr>
+                    <tr>
+                        <td>Activities & Entrance Fees</td>
+                        <td>₹10,000 - ₹15,000</td>
+                        <td>Temple donations, Buddhist site entry fees, guide fees, Bhitarkanika boat safari.</td>
+                    </tr>
+                    <tr>
+                        <td>Miscellaneous & Contingency</td>
+                        <td>₹15,000 - ₹20,000</td>
+                        <td>Shopping, personal expenses, unexpected costs, tips.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Estimated Budget</strong></td>
+                        <td><strong>₹170,000 - ₹260,000</strong></td>
+                        <td><strong>(Approx. USD 2,000 - 3,100)</strong></td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><em>Note: All costs are indicative and can vary based on season, booking choices, and personal spending habits.</em></p>
+        </div>
+
+        <h2>Food Suggestions</h2>
+        <p>Odisha's cuisine is distinct, focusing on subtle flavors and fresh ingredients. Here are some must-try local delicacies:</p>
+        <ul>
+            <li class="food-item"><strong>Pakhala Bhat:</strong> Fermented rice, a cooling and staple dish, often served with side dishes like fried fish, saga (greens), and badi chura (lentil fritters crumble).</li>
+            <li class="food-item"><strong>Dalma:</strong> A wholesome preparation of lentils and mixed vegetables, tempered with traditional spices.</li>
+            <li class="food-item"><strong>Santula:</strong> A healthy and light mixed vegetable curry, often prepared with minimal oil.</li>
+            <li class="food-item"><strong>Chhena Poda:</strong> Odisha's famous baked cheese dessert, caramelized to perfection, a true delight for sweet lovers.</li>
+            <li class="food-item"><strong>Rasagola:</strong> While claimed by many regions, Odia Rasagola is unique with its softer, melt-in-your-mouth texture.</li>
+            <li class="food-item"><strong>Enduri Pitha:</strong> Steamed turmeric leaf cakes, a fragrant and flavorful sweet or savory delicacy.</li>
+            <li class="food-item"><strong>Machha Besara / Machha Mahura:</strong> Delicious fish curries prepared with mustard paste or mixed vegetables, offering distinct Odia flavors.</li>
+            <li class="food-item"><strong>Crab Kalia / Chingudi Checcha:</strong> For seafood enthusiasts, spicy crab curry and prawn stir-fry are local favorites.</li>
+        </ul>
+
+        <h2>Packing List</h2>
+        <p>Prepare for comfort and convenience during your Jajpur adventure:</p>
+        <ul>
+            <li class="packing-item"><strong>Clothing:</strong> Light, breathable fabrics (cotton, linen) for warm and humid weather. Modest attire (covering shoulders and knees) for temple visits. Comfortable walking shoes/sandals. Swimwear if your hotel has a pool.</li>
+            <li class="packing-item"><strong>Health & Hygiene:</strong> Personal medications, hand sanitizer, insect repellent (especially for Bhitarkanika), high SPF sunblock, basic first-aid kit.</li>
+            <li class="packing-item"><strong>Documents:</strong> Valid ID proofs (Aadhar/Passport), flight tickets, hotel booking confirmations, photocopies of important documents.</li>
+            <li class="packing-item"><strong>Electronics:</strong> Mobile phone & charger, power bank, camera, universal travel adapter if needed.</li>
+            <li class="packing-item"><strong>Miscellaneous:</strong> Small daypack, reusable water bottle, sunglasses, wide-brimmed hat, umbrella or light raincoat (especially during monsoon season), snacks for travel.</li>
+        </ul>
+
+        <h2>Travel Tips</h2>
+        <ol>
+            <li class="tip-item"><strong>Respect Local Customs:</strong> Odisha is culturally rich. Dress modestly, especially when visiting religious sites. Always remove your footwear before entering temples.</li>
+            <li class="tip-item"><strong>Stay Hydrated:</strong> The climate can be warm and humid. Drink plenty of bottled water or tender coconut water throughout the day to stay hydrated.</li>
+            <li class="tip-item"><strong>Pre-book Transport:</strong> For a luxury experience, pre-arrange an AC private car with a reliable driver for airport transfers and daily sightseeing. This ensures comfort and safety.</li>
+            <li class="tip-item"><strong>Embrace Odia Cuisine:</strong> Be adventurous and try local dishes. Don't hesitate to ask hotel staff or local guides for recommendations for authentic dining experiences.</li>
+            <li class="tip-item"><strong>Carry Cash:</strong> While major hotels and restaurants accept cards, smaller establishments, local markets, and remote areas might prefer cash. Keep a moderate amount of local currency handy.</li>
+        </ol>
+    </div>
+</body>
+</html>
+
+
+Destination: JAIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 900px; margin: auto; padding: 20px; background-color: #f4f4f9; }
+    h1 { color: #d35400; text-align: center; border-bottom: 2px solid #d35400; }
+    h2 { color: #2c3e50; border-left: 5px solid #d35400; padding-left: 10px; margin-top: 30px; }
+    .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 10px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+    th { background-color: #d35400; color: white; }
+    ul { list-style-type: square; }
+    .highlight { font-weight: bold; color: #d35400; }
+</style>
+</head>
+<body>
+
+    <h1>Luxury Family Escape: Delhi to Jaipur (7 Days)</h1>
+
+    <h2>Trip Summary</h2>
+    <p>A regal 7-day excursion from Delhi to the "Pink City" of Jaipur. Designed for families seeking luxury, cultural immersion, and historical grandeur, this itinerary balances iconic sightseeing with leisurely indulgence in world-class heritage properties.</p>
+
+    <h2>Tourist Attractions</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Amer Fort:</strong> A majestic hilltop fort reflecting a blend of Hindu and Mughal architecture.</li>
+            <li><strong>City Palace:</strong> The current residence of the royal family, showcasing opulent courtyards and museums.</li>
+            <li><strong>Hawa Mahal:</strong> The iconic "Palace of Winds" with its 953 intricate honeycomb-like windows.</li>
+            <li><strong>Jantar Mantar:</strong> A UNESCO World Heritage site featuring the world's largest stone sundial.</li>
+            <li><strong>Nahargarh Fort:</strong> Offers the most breathtaking sunset panoramic view of the entire Jaipur city.</li>
+            <li><strong>Albert Hall Museum:</strong> The state museum of Rajasthan known for its exquisite Indo-Saracenic design.</li>
+            <li><strong>Chokhi Dhani:</strong> An ethnic village resort providing a high-end cultural experience with folk performances.</li>
+        </ul>
+    </div>
+
+    <h2>Recommended Hotels (Luxury)</h2>
+    <div class="card">
+        <ul>
+            <li><strong>Rambagh Palace:</strong> The former residence of the Maharaja of Jaipur; ultimate luxury.</li>
+            <li><strong>The Oberoi Rajvilas:</strong> Set in 32 acres of gardens, offering royal tented accommodation.</li>
+            <li><strong>Taj Jai Mahal Palace:</strong> A 270-year-old heritage property with sprawling Mughal gardens.</li>
+            <li><strong>Samode Haveli:</strong> A boutique heritage property offering intimate luxury and traditional charm.</li>
+            <li><strong>Fairmont Jaipur:</strong> A grand hotel inspired by Mughal architecture, perfect for families.</li>
+        </ul>
+    </div>
+
+    <h2>Day-wise Itinerary</h2>
+    <div class="card">
+        <p><strong>Day 1:</strong> Arrival in Jaipur, check-in, and relaxed dinner at the palace hotel.</p>
+        <p><strong>Day 2:</strong> Morning exploration of Amer Fort and Panna Meena ka Kund; evening at Jal Mahal.</p>
+        <p><strong>Day 3:</strong> City Palace and Jantar Mantar; evening visit to local high-end jewelry boutiques.</p>
+        <p><strong>Day 4:</strong> Day trip to Nahargarh and Jaigarh Fort; evening sunset cocktails overlooking the city.</p>
+        <p><strong>Day 5:</strong> Leisure morning; afternoon shopping at Johari Bazaar for textiles and gems; evening cultural show.</p>
+        <p><strong>Day 6:</strong> Family fun day at Chokhi Dhani for traditional food and activities.</p>
+        <p><strong>Day 7:</strong> Breakfast at the hotel and return journey to Delhi.</p>
+    </div>
+
+    <h2>Budget Breakdown (Per Couple/Family)</h2>
+    <table>
+        <tr><th>Expense Category</th><th>Estimated Cost (INR)</th></tr>
+        <tr><td>Luxury Accommodations (6 nights)</td><td>₹1,80,000 - ₹2,50,000</td></tr>
+        <tr><td>Private Chauffeur/Transport</td><td>₹25,000</td></tr>
+        <tr><td>Fine Dining</td><td>₹40,000</td></tr>
+        <tr><td>Entrance Fees & Experiences</td><td>₹15,000</td></tr>
+        <tr><td><strong>Total Estimated</strong></td><td><strong>₹2,60,000 - ₹3,30,000</strong></td></tr>
+    </table>
+
+    <h2>Food Suggestions</h2>
+    <div class="card">
+        <p>Don't miss the <strong>Dal Baati Churma</strong> (the signature Rajasthani dish), <strong>Laal Maas</strong> (spicy mutton curry), <strong>Ghevar</strong> (traditional sweet), and <strong>Pyaaz Kachori</strong> for breakfast.</p>
+    </div>
+
+    <h2>Packing List</h2>
+    <div class="card">
+        <ul>
+            <li>Light, breathable cotton clothes for the day.</li>
+            <li>Formal/Ethinic wear for palace dinners.</li>
+            <li>Comfortable walking shoes (the forts involve a lot of walking).</li>
+            <li>Sunglasses, wide-brimmed hats, and sunscreen.</li>
+            <li>A light jacket (if traveling between October and March).</li>
+        </ul>
+    </div>
+
+    <h2>Travel Tips</h2>
+    <div class="card">
+        <ol>
+            <li><strong>Hire a Guide:</strong> Use official Rajasthan Tourism guides to appreciate the history of the forts.</li>
+            <li><strong>Best Time:</strong> Visit between October and March to enjoy pleasant weather.</li>
+            <li><strong>Transport:</strong> Rent a luxury SUV with a private driver for stress-free movement within the city.</li>
+            <li><strong>Hydration:</strong> Keep hydrated; the Rajasthani heat can be deceptive even in winter.</li>
+            <li><strong>Shopping:</strong> Stick to government-approved emporiums (like Rajasthan Small Industries Corporation) for authentic gems.</li>
+        </ol>
+    </div>
+
+</body>
+</html>
+
+
+Destination: JAIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaipur Luxury Family Getaway: A Royal Retreat</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f0e5; /* Light cream */
+            color: #333;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 30px 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border-top: 5px solid #d4af37; /* Gold accent */
+        }
+
+        h1 {
+            font-family: 'Playfair Display', serif;
+            color: #8B4513; /* Saddle Brown */
+            text-align: center;
+            font-size: 2.8em;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #d4af37;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            font-family: 'Playfair Display', serif;
+            color: #A0522D; /* Sienna */
+            font-size: 2em;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            padding-left: 15px;
+            border-left: 5px solid #d4af37;
+        }
+
+        h3 {
+            color: #5a2e0a; /* Darker brown */
+            font-size: 1.4em;
+            margin-top: 25px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+
+        ul li {
+            padding: 8px 0;
+            border-bottom: 1px dotted #eee;
+            margin-left: 20px;
+            position: relative;
+        }
+
+        ul li::before {
+            content: '•';
+            color: #d4af37;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        ol {
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+
+        ol li {
+            margin-bottom: 10px;
+            color: #555;
+        }
+
+        .section-content {
+            background-color: #fdfdfd;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #eee;
+            margin-bottom: 30px;
+        }
+
+        .day-itinerary {
+            border: 1px solid #d4af37;
+            border-radius: 8px;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            background-color: #fffaf0; /* Lightest cream */
+        }
+
+        .day-itinerary h3 {
+            color: #8B4513;
+            margin-top: 0;
+            border-bottom: 1px dashed #d4af37;
+            padding-bottom: 10px;
+        }
+
+        .budget-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .budget-table th, .budget-table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .budget-table th {
+            background-color: #d4af37;
+            color: white;
+            font-weight: 600;
+        }
+
+        .budget-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        .budget-total {
+            font-weight: bold;
+            background-color: #d4af37;
+            color: white;
+        }
+
+        .note {
+            font-style: italic;
+            color: #777;
+            margin-top: 20px;
+            padding-left: 15px;
+            border-left: 3px solid #ccc;
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin: 10px auto;
+            }
+            h1 {
+                font-size: 2em;
+            }
+            h2 {
+                font-size: 1.6em;
+            }
+            h3 {
+                font-size: 1.2em;
+            }
+            ul li {
+                margin-left: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Jaipur Luxury Family Getaway: A Royal Retreat</h1>
+
+        <h2>Trip Summary</h2>
+        <div class="section-content">
+            <p>Embark on a magnificent 7-day luxury family adventure to Jaipur, the Pink City of Rajasthan. Starting from Delhi, this meticulously planned itinerary blends rich history, vibrant culture, exciting family fun spots, and exquisite culinary experiences, ensuring an unforgettable royal retreat for every member of your family.</p>
+            <ul>
+                <li><strong>Source:</strong> Delhi</li>
+                <li><strong>Destination:</strong> Jaipur, Rajasthan</li>
+                <li><strong>Budget Category:</strong> Luxury</li>
+                <li><strong>Days:</strong> 7 Days / 6 Nights</li>
+                <li><strong>Interests:</strong> History, Fun Spots, Food, Culture</li>
+                <li><strong>Trip Type:</strong> Family</li>
+            </ul>
+        </div>
+
+        <h2>Tourist Attractions</h2>
+        <div class="section-content">
+            <p>Explore Jaipur's iconic landmarks, each telling a story of its glorious past:</p>
+            <ul>
+                <li><strong>Amber Fort & Palace:</strong> A majestic hill fort, famous for its artistic Hindu style elements. Enjoy an elephant ride or jeep safari up to the fort.</li>
+                <li><strong>Hawa Mahal (Palace of Winds):</strong> An iconic five-story palace with a unique honeycomb façade, designed to allow royal ladies to observe street festivals unseen.</li>
+                <li><strong>City Palace:</strong> A sprawling complex housing museums, courtyards, and gardens, showcasing a blend of Rajasthani and Mughal architecture.</li>
+                <li><strong>Jantar Mantar:</strong> An astronomical observatory housing a collection of nineteen architectural astronomical instruments built by Maharaja Sawai Jai Singh II. A UNESCO World Heritage site.</li>
+                <li><strong>Nahargarh Fort:</strong> Perched high on the Aravalli hills, offering breathtaking panoramic views of Jaipur, especially at sunset.</li>
+                <li><strong>Jaigarh Fort:</strong> Known for its massive cannon, Jaivana, and its impressive defensive structures, offering stunning views and a peek into military history.</li>
+                <li><strong>Jal Mahal (Water Palace):</strong> A picturesque palace seemingly floating in the middle of Man Sagar Lake, best admired from the roadside.</li>
+                <li><strong>Albert Hall Museum:</strong> The oldest museum in Rajasthan, displaying a vast collection of artifacts including paintings, carpets, ivory, stone, and metal sculptures.</li>
+                <li><strong>Patrika Gate:</strong> A beautiful and colorful gateway at Jawahar Circle Garden, perfect for family photos and a pleasant evening stroll.</li>
+            </ul>
+        </div>
+
+        <h2>Recommended Hotels</h2>
+        <div class="section-content">
+            <p>Indulge in unparalleled luxury and hospitality at these world-class hotels in Jaipur:</p>
+            <ul>
+                <li><strong>Rambagh Palace (Taj Hotel):</strong> Often called the "Jewel of Jaipur," it offers an opulent experience in a former royal residence with grand suites, exquisite dining, and impeccable service.</li>
+                <li><strong>The Oberoi Rajvilas:</strong> Set amidst 32 acres of beautiful gardens, this hotel offers luxury villas and tents, providing an authentic Rajasthani experience with modern comforts and unparalleled service.</li>
+                <li><strong>ITC Rajputana, a Luxury Collection Hotel:</strong> Inspired by the Haveli architecture of Rajasthan, offering a blend of traditional design and contemporary amenities, known for its warm hospitality and diverse dining.</li>
+                <li><strong>Fairmont Jaipur:</strong> A stunning hotel combining Mughal and Rajasthani architecture, nestled in the Aravalli hills, offering spacious rooms, a lavish spa, and multiple dining options.</li>
+                <li><strong>Jai Mahal Palace (Taj Hotel):</strong> A magnificent 18th-century palace converted into a luxury hotel, set amidst 18 acres of landscaped Mughal gardens, offering a truly regal stay.</li>
+            </ul>
+        </div>
+
+        <h2>Day-wise Itinerary</h2>
+        <div class="section-content">
+            <ol>
+                <li class="day-itinerary">
+                    <h3>Day 1: Arrival & Royal Welcome</h3>
+                    <ul>
+                        <li><strong>Morning (Delhi to Jaipur):</strong> Depart from Delhi by luxury train (e.g., Vande Bharat Express) or flight to Jaipur.
+                        <li><strong>Afternoon:</strong> Arrive in Jaipur, transfer to your chosen luxury hotel (e.g., Rambagh Palace). Check-in and relax amidst royal grandeur.</li>
+                        <li><strong>Evening:</strong> Enjoy a leisurely walk around the hotel's expansive grounds. Indulge in a fine-dining experience at the hotel's specialty restaurant, perhaps trying authentic Rajasthani thali in a regal setting.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 2: Forts & Palaces Grandeur</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Head to <strong>Amber Fort & Palace</strong>. Enjoy an exhilarating elephant ride or a comfortable jeep safari up to the fort. Explore its magnificent courtyards, palaces, and intricate mirror work (Sheesh Mahal).</li>
+                        <li><strong>Afternoon:</strong> Visit the picturesque <strong>Jal Mahal</strong> for a photo stop. Proceed to explore the iconic <strong>Hawa Mahal</strong>. Enjoy lunch at a highly-rated restaurant nearby with city views.</li>
+                        <li><strong>Evening:</strong> Witness the spectacular Light & Sound Show at Amber Fort (optional, check timings) or relax at the hotel's spa.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 3: City's Heart & Heritage</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Explore the grand <strong>City Palace</strong>, including its Mubarak Mahal, Chandra Mahal, and various courtyards. Visit the museum showcasing royal artifacts.</li>
+                        <li><strong>Afternoon:</strong> Walk to the adjacent <strong>Jantar Mantar</strong>, the ancient astronomical observatory. Enjoy lunch at a traditional Rajasthani restaurant known for its local delicacies.</li>
+                        <li><strong>Evening:</strong> Take a leisurely stroll through Johari Bazaar and Bapu Bazaar for some authentic souvenir shopping (textiles, jewelry, handicrafts). Enjoy a sunset view from a rooftop cafe.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 4: Panoramic Views & Adventure</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Drive up to <strong>Nahargarh Fort</strong> for breathtaking panoramic views of Jaipur city. Explore the fort and its unique Madhavendra Bhawan (palace for the king's nine queens).</li>
+                        <li><strong>Afternoon:</strong> Visit <strong>Jaigarh Fort</strong>, famous for its massive cannon, Jaivana. Explore its watchtowers and enjoy the historical significance. Lunch at a restaurant near the forts.</li>
+                        <li><strong>Evening:</strong> Experience an exclusive cultural performance or a puppet show at Chokhi Dhani (an ethnic village resort), complete with a traditional Rajasthani dinner buffet.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 5: Culinary & Cultural Immersion</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Participate in a private Rajasthani cooking class, learning to prepare local delicacies like Dal Baati Churma or Laal Maas, followed by enjoying your culinary creations for lunch.</li>
+                        <li><strong>Afternoon:</strong> Visit the <strong>Albert Hall Museum</strong>, Rajasthan's oldest museum, housing an impressive collection of artifacts.</li>
+                        <li><strong>Evening:</strong> Explore <strong>Patrika Gate</strong> for stunning photo opportunities, especially around sunset. Enjoy a relaxing evening at a high-end lounge or a rooftop bar.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 6: Relaxation & Leisure</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Enjoy a leisurely morning at your luxury hotel. Indulge in spa treatments, yoga sessions, or simply relax by the pool.</li>
+                        <li><strong>Afternoon:</strong> Visit a local block printing workshop or a gemstone cutting center for an insight into Jaipur's renowned craftsmanship.</li>
+                        <li><strong>Evening:</strong> Enjoy a private dinner arrangement, perhaps in a heritage setting or at a restaurant offering live classical music. Spend quality family time recounting trip memories.</li>
+                        <li><strong>Accommodation:</strong> Luxury Hotel in Jaipur</li>
+                    </ul>
+                </li>
+                <li class="day-itinerary">
+                    <h3>Day 7: Departure with Memories</h3>
+                    <ul>
+                        <li><strong>Morning:</strong> Enjoy a lavish breakfast at the hotel. Depending on your departure schedule, you might have time for some last-minute souvenir shopping or a final stroll through the hotel gardens.</li>
+                        <li><strong>Afternoon:</strong> Check out from the hotel and transfer to Jaipur Airport or Railway Station for your return journey to Delhi, carrying cherished memories of your royal family getaway.</li>
+                        <li><strong>Accommodation:</strong> N/A</li>
+                    </ul>
+                </li>
+            </ol>
+        </div>
+
+        <h2>Budget Breakdown (Estimated for a Family of 4)</h2>
+        <div class="section-content">
+            <p>This budget is an estimate for a 7-day luxury family trip to Jaipur. Prices can vary significantly based on specific choices and time of travel.</p>
+            <table class="budget-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Estimated Expense (INR)</th>
+                        <th>Notes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Travel (Delhi-Jaipur R/T)</strong></td>
+                        <td>₹20,000 - ₹50,000</td>
+                        <td>Flights (economy/premium economy) or AC First Class train tickets.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Accommodation (6 Nights)</strong></td>
+                        <td>₹180,000 - ₹360,000+</td>
+                        <td>Luxury hotels (₹30,000 - ₹60,000+ per night for a family room/suite).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Food & Dining</strong></td>
+                        <td>₹50,000 - ₹80,000</td>
+                        <td>Fine dining, specialty restaurants, high-end cafes (₹8,000 - ₹13,000 per day).</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Local Transportation</strong></td>
+                        <td>₹20,000 - ₹35,000</td>
+                        <td>Private AC car with driver for the entire trip.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Activities & Entry Fees</strong></td>
+                        <td>₹15,000 - ₹30,000</td>
+                        <td>Fort entries, museum fees, elephant/jeep ride, light & sound show, cultural performances.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Shopping & Souvenirs</strong></td>
+                        <td>₹30,000 - ₹70,000+</td>
+                        <td>Personal discretion for traditional crafts, jewelry, textiles.</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Miscellaneous & Contingency</strong></td>
+                        <td>₹25,000 - ₹50,000</td>
+                        <td>Tips, emergency, unexpected expenses.</td>
+                    </tr>
+                    <tr class="budget-total">
+                        <td><strong>Total Estimated Budget</strong></td>
+                        <td><strong>₹345,000 - ₹675,000+</strong></td>
+                        <td>(Approx. for a family of 4 for 7 days)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="note"><em>Note: These are indicative prices and can fluctuate based on season, booking in advance, specific hotel choices, and personal spending habits.</em></p>
+        </div>
+
+        <h2>Food Suggestions</h2>
+        <div class="section-content">
+            <p>Jaipur's cuisine is a delightful blend of rich flavors and traditional recipes. Don't miss these local favorites:</p>
+            <ul>
+                <li><strong>Dal Baati Churma:</strong> The quintessential Rajasthani dish – baked wheat balls (baati), spicy lentil soup (dal), and sweet crumbled wheat (churma).</li>
+                <li><strong>Ghewar:</strong> A disc-shaped sweet cake, often soaked in sugar syrup, available in various flavors like Malai, Mawa, or Plain. A must-try dessert.</li>
+                <li><strong>Pyaaz Kachori:</strong> A crispy, deep-fried pastry filled with a spicy onion mixture, perfect for breakfast or a snack.</li>
+                <li><strong>Mirchi Bada:</strong> Green chilies stuffed with a spicy potato filling, coated in gram flour batter, and deep-fried.</li>
+                <li><strong>Laal Maas:</strong> A fiery red meat curry prepared with a unique blend of spices, a treat for non-vegetarian food lovers.</li>
+                <li><strong>Gatta Curry:</strong> A vegetarian delicacy made with gram flour dumplings cooked in a spicy yogurt-based gravy.</li>
+                <li><strong>Ker Sangri:</strong> A traditional Rajasthani dry vegetable dish made from local berries and beans, rich in flavor.</li>
+                <li><strong>Mawa Kachori:</strong> A sweet variant of kachori, filled with mawa (condensed milk) and dry fruits, usually served hot.</li>
+                <li><strong>Lassi:</strong> A refreshing yogurt-based drink, sweet or salted, often topped with cream and dry fruits.</li>
+            </ul>
+        </div>
+
+        <h2>Packing List</h2>
+        <div class="section-content">
+            <h3>Clothing:</h3>
+            <ul>
+                <li>Lightweight cotton clothing for daytime (Rajasthan can be hot).</li>
+                <li>A light jacket or shawl for cooler evenings, especially during winter months.</li>
+                <li>Comfortable walking shoes/sandals for sightseeing.</li>
+                <li>Swimwear if your hotel has a pool.</li>
+                <li>Modest clothing for visiting religious sites (shoulders and knees covered).</li>
+                <li>Smart casuals or traditional wear for fine dining and evening events.</li>
+            </ul>
+            <h3>Essentials:</h3>
+            <ul>
+                <li>Sunscreen (high SPF), sunglasses, and a wide-brimmed hat/cap.</li>
+                <li>Personal toiletries and any prescribed medications.</li>
+                <li>Insect repellent.</li>
+                <li>Power bank for mobile devices.</li>
+                <li>Camera with extra batteries/memory card.</li>
+                <li>Small backpack for day trips.</li>
+                <li>Reusable water bottle to stay hydrated.</li>
+            </ul>
+            <h3>Documents & Money:</h3>
+            <ul>
+                <li>Government-issued ID (Aadhaar, Passport, Driving License).</li>
+                <li>Flight/train tickets, hotel booking confirmations.</li>
+                <li>Copies of all important documents (physical and digital).</li>
+                <li>Credit/Debit cards and some Indian Rupees cash for small purchases.</li>
+            </ul>
+            <h3>Family Specific:</h3>
+            <ul>
+                <li>Basic first-aid kit (band-aids, antiseptic, pain relievers).</li>
+                <li>Entertainment for kids (books, small toys, tablets).</li>
+                <li>Travel snacks for children.</li>
+                <li>Stroller for younger children if needed.</li>
+            </ul>
+        </div>
+
+        <h2>Travel Tips</h2>
+        <div class="section-content">
+            <ol>
+                <li><strong>Stay Hydrated:</strong> Jaipur's climate can be dry and hot. Carry a water bottle and drink plenty of fluids to avoid dehydration.</li>
+                <li><strong>Book in Advance:</strong> For luxury hotels, popular activities (like elephant rides at Amber Fort), and fine dining, making reservations well in advance is highly recommended, especially during peak season.</li>
+                <li><strong>Dress Modestly:</strong> While Jaipur is generally tourist-friendly, it's advisable to dress respectfully, especially when visiting religious sites and local markets, by covering shoulders and knees.</li>
+                <li><strong>Hire a Local Guide:</strong> For historical sites like Amber Fort, City Palace, and Jantar Mantar, hiring a certified local guide can significantly enrich your understanding and experience of the rich history.</li>
+                <li><strong>Be Aware of Scams & Bargain Wisely:</strong> In local bazaars, be prepared to bargain when shopping. Be cautious of unsolicited guides or persistent vendors; it's always best to engage with known establishments or pre-arranged services.</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
+
+
+Destination: JAIPUR
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luxury Solo Trip: Delhi to Jaipur (7 Days)</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f4ed; /* Soft cream background */
+            color: #333;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 20px auto;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.8em;
+            color: #8B4513; /* Saddle Brown */
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #D4AF37; /* Gold */
+        }
+        h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.8em;
+            color: #6A0505; /* Deep Red-Brown */
+            margin-top: 40px;
+            margin-bottom: 20px;
+            border-left: 5px solid #D4AF37; /* Gold accent */
+            padding-left: 15px;
+            background-color: #fffaf0; /* Floral white for heading background */
+            padding-top: 5px;
+            padding-bottom: 5px;
+            border-radius: 3px;
+        }
+        section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+        ul, ol {
+            margin-left: 25px;
+            padding: 0;
+            list-style-type: disc;
+        }
+        ol {
+            list-style-type: decimal;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #6A0505; /* Deep Red-Brown */
+        }
+        .summary-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+        .summary-item {
+            background-color: #fffaf0;
+            padding: 15px;
+            border-radius: 5px;
+            border: 1px solid #D4AF37;
+            text-align: center;
+        }
+        .summary-item strong {
+            display: block;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        .day-itinerary {
+            margin-bottom: 25px;
+            border-bottom: 1px dashed #ccc;
+            padding-bottom: 15px;
+        }
+        .day-itinerary:last-child {
+            border-bottom: none;
+        }
+        .day-itinerary h3 {
+            font-family: 'Playfair Display', serif;
+            color: #8B4513;
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #D4AF37; /* Gold */
+            color: white;
+            font-family: 'Open Sans', sans-serif;
+            font-weight: 600;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .total-budget {
+            font-size: 1.2em;
+            font-weight: bold;
+            text-align: right;
+            padding: 15px 0;
+            border-top: 2px solid #D4AF37;
+            margin-top: 15px;
+            color: #6A0505;
+        }
+        .note {
+            font-style: italic;
+            font-size: 0.9em;
+            color: #666;
+            margin-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Luxury Solo Trip: Jaipur - The Pink City Experience</h1>
+
+    <section>
+        <h2>Trip Summary</h2>
+        <div class="summary-grid">
+            <div class="summary-item"><strong>Source:</strong> Delhi</div>
+            <div class="summary-item"><strong>Destination:</strong> Jaipur</div>
+            <div class="summary-item"><strong>Budget Category:</strong> Luxury</div>
+            <div class="summary-item"><strong>Days:</strong> 7</div>
+            <div class="summary-item"><strong>Interests:</strong> History, Fun Spots, Food</div>
+            <div class="summary-item"><strong>Trip Type:</strong> Solo</div>
+        </div>
+        <p class="note">Embark on a lavish 7-day solo journey from Delhi to Jaipur, immersing yourself in the rich history, vibrant culture, and culinary delights of the Pink City. This itinerary is crafted for an exquisite, comfortable, and memorable luxury experience.</p>
+    </section>
+
+    <section>
+        <h2>Tourist Attractions</h2>
+        <ul>
+            <li><strong>Amber Fort & Palace:</strong> A majestic hill fort, a UNESCO World Heritage Site, known for its artistic Hindu-style elements, including intricate mirror work and stunning views.</li>
+            <li><strong>Hawa Mahal (Palace of Winds):</strong> An iconic five-story palace built of red and pink sandstone, famous for its unique exterior resembling a honeycomb of beehives with 953 small windows.</li>
+            <li><strong>City Palace:</strong> A beautiful complex housing Chandra Mahal, Mubarak Mahal, and other buildings. It blends Rajasthani and Mughal architecture, with museums showcasing royal artifacts.</li>
+            <li><strong>Jantar Mantar:</strong> An astronomical observatory, also a UNESCO World Heritage Site, featuring a collection of nineteen architectural astronomical instruments, including the world's largest stone sundial.</li>
+            <li><strong>Nahargarh Fort:</strong> Perched on the Aravalli Hills, offering panoramic views of Jaipur. It was primarily a defensive fort, but also features the Madhavendra Bhawan, a unique suite of 9 identical apartments for the king's queens.</li>
+            <li><strong>Jaigarh Fort:</strong> Located on the Cheel ka Teela (Hill of Eagles) and overlooking the Amber Fort, this fort is known for its massive walls and the world's largest cannon on wheels, 'Jaivana'.</li>
+            <li><strong>Albert Hall Museum:</strong> The oldest museum in Rajasthan, showcasing a vast collection of artifacts including paintings, carpets, ivory, precious stones, sculptures, and an Egyptian mummy.</li>
+            <li><strong>Panna Meena ka Kund:</strong> A beautifully symmetrical 16th-century stepwell near Amber Fort, known for its intricate criss-cross stairs. A tranquil and photogenic spot.</li>
+            <li><strong>Patrika Gate:</strong> A relatively new, vibrant, and incredibly ornate gate that serves as an entrance to Jaipur's Jawahar Circle Garden. Each pillar and archway features hand-painted murals depicting different regions of Rajasthan.</li>
+            <li><strong>Jal Mahal (Water Palace):</strong> A picturesque palace located in the middle of the Man Sagar Lake. While entry to the palace isn't permitted, its serene beauty can be admired from the lakeside promenade.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Recommended Hotels (Luxury Category)</h2>
+        <p>Experience unparalleled comfort and service at these exquisite properties:</p>
+        <ol>
+            <li><strong>The Oberoi Rajvilas:</strong> A world-renowned resort offering luxurious villas with private pools, exquisite dining, and sprawling gardens, replicating a traditional Rajasthani fort.</li>
+            <li><strong>Rambagh Palace (Taj Hotel):</strong> Once the residence of the Maharaja of Jaipur, this 'Jewel of Jaipur' offers opulent suites, personalized butler service, and an experience steeped in royal history.</li>
+            <li><strong>Suján Rajmahal Palace:</strong> A boutique heritage hotel that was formerly a royal guest house. Known for its distinctive decor, vibrant colors, and intimate luxurious atmosphere.</li>
+            <li><strong>Fairmont Jaipur:</strong> Inspired by the Mughal palaces and royal forts of Rajasthan, offering contemporary luxury with traditional charm, exquisite dining, and a magnificent spa.</li>
+            <li><strong>The Leela Palace Jaipur:</strong> A grand palace hotel combining modern luxury with traditional Rajasthani architecture, featuring lavish rooms, an expansive spa, and exceptional culinary experiences.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Day-wise Itinerary</h2>
+
+        <div class="day-itinerary">
+            <h3>Day 1: Arrival & Royal Welcome</h3>
+            <ul>
+                <li><strong>Morning:</strong> Travel from Delhi to Jaipur (Luxury Car/Flight/AC First Class Train).</li>
+                <li><strong>Afternoon:</strong> Check into your chosen luxury hotel. Enjoy a welcome drink and relax.</li>
+                <li><strong>Late Afternoon:</strong> Begin your exploration with the magnificent <strong>City Palace</strong> and the scientific wonder of <strong>Jantar Mantar</strong>. Opt for a private guide for an insightful tour.</li>
+                <li><strong>Evening:</strong> Indulge in a fine dining experience at your hotel or at a renowned restaurant like <strong>1135 AD (Amber Fort)</strong> for royal cuisine with a stunning view.</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 2: Forts, Views & Sunset Spectacle</h3>
+            <ul>
+                <li><strong>Morning:</strong> Visit the grand <strong>Amber Fort & Palace</strong>. Consider an elephant ride up the fort (ethical options available, check beforehand) or a jeep ride. Explore its various courtyards and palaces.</li>
+                <li><strong>Lunch:</strong> Enjoy lunch at a premium restaurant near Amber Fort or return to your hotel for a relaxing meal.</li>
+                <li><strong>Afternoon:</strong> Explore <strong>Jaigarh Fort</strong> (known for its massive cannon) and then proceed to <strong>Nahargarh Fort</strong>.</li>
+                <li><strong>Evening:</strong> Witness a breathtaking sunset over Jaipur from Nahargarh Fort, perhaps with high tea or drinks at <strong>Padao Restaurant</strong> there.</li>
+                <li><strong>Dinner:</strong> Relish a gourmet dinner back at your hotel or explore another highly-rated restaurant in Jaipur.</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 3: Pink City Charm & Culinary Delights</h3>
+            <ul>
+                <li><strong>Morning:</strong> Drive past the iconic <strong>Hawa Mahal</strong>. Capture stunning photographs. Then visit the <strong>Albert Hall Museum</strong>.</li>
+                <li><strong>Late Morning:</strong> Explore the vibrant local markets like <strong>Johari Bazaar</strong> (for jewelry and textiles) and <strong>Bapu Bazaar</strong> (for leather goods and handicrafts). Your personal assistant or guide can help navigate and find authentic items.</li>
+                <li><strong>Lunch:</strong> Savor authentic Rajasthani Thali at a reputed local eatery like <strong>Thali House</strong> or a upscale restaurant.</li>
+                <li><strong>Afternoon:</strong> Consider a private cooking class to learn the secrets of Rajasthani cuisine, followed by tasting your creations.</li>
+                <li><strong>Evening:</strong> Enjoy a luxurious spa treatment at your hotel or attend a cultural show (e.g., at Chokhi Dhani, though Chokhi Dhani is a bit touristy, for luxury perhaps a private cultural performance could be arranged).</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 4: Stepwells, Serenity & Shopping</h3>
+            <ul>
+                <li><strong>Morning:</strong> Visit the stunning geometric wonder of <strong>Panna Meena ka Kund</strong> (stepwell).</li>
+                <li><strong>Late Morning:</strong> Drive by the picturesque <strong>Jal Mahal</strong> for a photo opportunity.</li>
+                <li><strong>Lunch:</strong> Have a leisurely lunch at a cafe with a view or back at your hotel.</li>
+                <li><strong>Afternoon:</strong> Indulge in some high-end shopping at boutiques for bespoke clothing, gemstones, or art. Jaipur offers exclusive stores for discerning travelers.</li>
+                <li><strong>Evening:</strong> Enjoy a relaxed evening, perhaps a sundowner at a rooftop bar with city views, followed by dinner at a specialty restaurant recommended by your hotel concierge.</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 5: Adventures & Artistic Expressions</h3>
+            <ul>
+                <li><strong>Morning (Optional Adventure):</strong> Embark on a hot air balloon ride over the Pink City at sunrise (pre-booking essential and weather dependent) for a truly unique perspective. OR opt for a private heritage walk focusing on Jaipur's hidden gems and architectural details.</li>
+                <li><strong>Late Morning:</strong> Visit a local artisan workshop (e.g., block printing, blue pottery, jewelry making) for a hands-on experience and to appreciate Jaipur's crafts.</li>
+                <li><strong>Lunch:</strong> A delightful meal at a garden restaurant or a bespoke picnic arranged by your hotel.</li>
+                <li><strong>Afternoon:</strong> Relax by the pool at your hotel, enjoy a book, or indulge in another spa session.</li>
+                <li><strong>Evening:</strong> Experience a grand culinary journey at one of Jaipur's top fine-dining establishments, perhaps a tasting menu paired with wines.</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 6: Modern Marvels & Leisure</h3>
+            <ul>
+                <li><strong>Morning:</strong> Visit the vibrant <strong>Patrika Gate</strong> for incredible photos amidst its colorful murals.</li>
+                <li><strong>Late Morning:</strong> Explore one of Jaipur's modern shopping malls (e.g., World Trade Park, Pink Square) for contemporary brands and entertainment, if you wish to experience a different side of the city.</li>
+                <li><strong>Lunch:</strong> Enjoy a light and chic lunch at a cafe within a mall or a trendy eatery.</li>
+                <li><strong>Afternoon:</strong> Enjoy leisure time at your luxury hotel – perhaps a swim, a yoga session, or simply unwinding in the opulent surroundings. Consider booking a professional photoshoot in traditional attire.</li>
+                <li><strong>Evening:</strong> A farewell dinner at a new favorite restaurant or a special private dinner arranged by your hotel.</li>
+            </ul>
+        </div>
+
+        <div class="day-itinerary">
+            <h3>Day 7: Farewell Jaipur</h3>
+            <ul>
+                <li><strong>Morning:</strong> Enjoy a leisurely gourmet breakfast at your hotel.</li>
+                <li><strong>Late Morning:</strong> Depending on your departure schedule, you might have time for last-minute souvenir shopping or a visit to a local art gallery.</li>
+                <li><strong>Afternoon:</strong> Check out from your hotel and depart from Jaipur for Delhi.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h2>Budget Breakdown (Estimated for 7 Days, Solo Luxury)</h2>
+        <p class="note">These are estimated costs in INR and can vary significantly based on specific choices, hotel deals, and personal spending habits. A private chauffeured car is assumed for all local transport.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Estimated Cost (INR)</th>
+                    <th>Notes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Travel (Delhi-Jaipur-Delhi)</strong></td>
+                    <td>₹10,000 - ₹25,000</td>
+                    <td>Luxury train (AC First Class), private chauffeur-driven car, or domestic flight.</td>
+                </tr>
+                <tr>
+                    <td><strong>Accommodation (6 Nights)</strong></td>
+                    <td>₹1,50,000 - ₹3,00,000</td>
+                    <td>Based on ₹25,000 - ₹50,000 per night at 5-star luxury hotels.</td>
+                </tr>
+                <tr>
+                    <td><strong>Local Transport (7 Days)</strong></td>
+                    <td>₹25,000 - ₹35,000</td>
+                    <td>Private chauffeur-driven luxury car for entire trip (approx ₹3500-₹5000/day).</td>
+                </tr>
+                <tr>
+                    <td><strong>Food & Dining</strong></td>
+                    <td>₹40,000 - ₹70,000</td>
+                    <td>Gourmet meals, fine dining experiences, high tea, cafes. (₹6000-₹10000/day)</td>
+                </tr>
+                <tr>
+                    <td><strong>Activities & Entry Fees</strong></td>
+                    <td>₹8,000 - ₹15,000</td>
+                    <td>Forts, museums, private guide, cooking class, hot air balloon (additional ~₹10,000-₹15,000).</td>
+                </tr>
+                <tr>
+                    <td><strong>Shopping & Souvenirs</strong></td>
+                    <td>₹15,000 - ₹30,000</td>
+                    <td>Variable, depending on personal interest in jewelry, textiles, handicrafts.</td>
+                </tr>
+                <tr>
+                    <td><strong>Miscellaneous & Contingency</strong></td>
+                    <td>₹20,000 - ₹40,000</td>
+                    <td>Spa treatments, tips, unexpected expenses, personal whims.</td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="total-budget">
+            Total Estimated Budget: ₹2,68,000 - ₹5,15,000+
+        </div>
+    </section>
+
+    <section>
+        <h2>Food Suggestions (Must-Try Local Delicacies)</h2>
+        <p>Jaipur is a paradise for food lovers. Don't miss these authentic Rajasthani flavors:</p>
+        <ul>
+            <li><strong>Dal Baati Churma:</strong> The quintessential Rajasthani dish, a wholesome meal of baked wheat balls (baati), lentil curry (dal), and sweet crumbled wheat (churma).</li>
+            <li><strong>Laal Maas:</strong> A fiery red meat curry prepared with mutton, yogurt, and a blend of potent spices. A treat for non-vegetarian spice lovers.</li>
+            <li><strong>Gatte ki Sabzi:</strong> A popular vegetarian curry made with gram flour dumplings (gatte) cooked in a spicy yogurt-based gravy.</li>
+            <li><strong>Pyaaz Kachori:</strong> A crispy, deep-fried pastry filled with a spicy onion mixture, best enjoyed with a side of sweet and spicy chutneys.</li>
+            <li><strong>Mawa Kachori:</strong> A sweet variant of kachori, filled with khoya (reduced milk solids) and dry fruits, often dipped in sugar syrup.</li>
+            <li><strong>Ghevar:</strong> A disc-shaped sweet cake made from flour and soaked in sugar syrup, typically enjoyed during festivals like Teej and Raksha Bandhan.</li>
+            <li><strong>Lassi:</strong> A refreshing yogurt-based drink, often thick and creamy, available in sweet, salty, or fruit flavors.</li>
+            <li><strong>Mirchi Bada:</strong> A popular spicy snack made from a large green chili stuffed with a spicy potato filling, coated in gram flour batter and deep-fried.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Packing List</h2>
+        <p>For a luxury solo trip to Jaipur, pack smart and comfortably:</p>
+        <ul>
+            <li><strong>Clothing:</strong>
+                <ul>
+                    <li>Lightweight, breathable fabrics (cotton, linen) for daytime as Jaipur can be hot.</li>
+                    <li>A few dressier outfits for fine dining experiences and evenings.</li>
+                    <li>A light shawl or jacket for cooler evenings or air-conditioned indoors.</li>
+                    <li>Swimwear if your luxury hotel has a pool.</li>
+                    <li>Modest clothing for visiting religious sites (shoulders and knees covered).</li>
+                </ul>
+            </li>
+            <li><strong>Footwear:</strong>
+                <ul>
+                    <li>Comfortable walking shoes or sandals for sightseeing.</li>
+                    <li>Dressier shoes for evenings.</li>
+                </ul>
+            </li>
+            <li><strong>Essentials:</strong>
+                <ul>
+                    <li>Sunscreen, sunglasses, and a wide-brimmed hat.</li>
+                    <li>Personal toiletries and hand sanitizer.</li>
+                    <li>Basic first-aid kit (band-aids, pain relievers, antiseptic wipes).</li>
+                    <li>Power bank and universal travel adapter.</li>
+                    <li>Reusable water bottle.</li>
+                </ul>
+            </li>
+            <li><strong>Documents & Valuables:</strong>
+                <ul>
+                    <li>ID proof (Passport/Aadhar), flight/train tickets, hotel booking confirmations.</li>
+                    <li>Credit/Debit cards and some local currency (INR).</li>
+                    <li>Smartphone with a local SIM or eSIM for connectivity.</li>
+                    <li>Camera and extra memory cards.</li>
+                </ul>
+            </li>
+            <li><strong>Miscellaneous:</strong>
+                <ul>
+                    <li>Small backpack or cross-body bag for daily excursions.</li>
+                    <li>Reading material or entertainment for leisure time.</li>
+                    <li>Any personal medications.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Travel Tips</h2>
+        <ol>
+            <li><strong>Stay Hydrated & Sun Protected:</strong> Jaipur can get very hot. Drink plenty of water, wear sunscreen, and carry a hat/sunglasses, especially when exploring outdoors.</li>
+            <li><strong>Hire a Reputable Driver/Guide:</strong> For a luxury solo trip, a dedicated English-speaking chauffeur and a certified local guide can enhance your experience, ensuring comfort, safety, and deeper insights into the city's history.</li>
+            <li><strong>Respect Local Customs:</strong> While Jaipur is accustomed to tourists, dressing modestly, especially when visiting religious sites, is appreciated. Be mindful of local traditions and etiquette.</li>
+            <li><strong>Bargain Respectfully in Markets:</strong> When shopping in local bazaars, bargaining is common practice. Do so politely and with a smile. For luxury shopping, fixed prices are usually the norm.</li>
+            <li><strong>Plan Leisure Time:</strong> Even in a luxury itinerary, don't overschedule. Build in time for relaxation at your lavish hotel, enjoying its amenities, or simply soaking in the atmosphere.</li>
+            <li><strong>Pre-Book Experiences:</strong> For high-demand luxury experiences like hot air balloon rides, fine dining reservations, or exclusive cultural shows, book well in advance to avoid disappointment.</li>
+            <li><strong>Solo Safety:</strong> As a solo female traveler, always inform someone of your itinerary, be aware of your surroundings, and avoid walking alone in isolated areas late at night. Stick to reputable transport and crowded areas.</li>
+        </ol>
+    </section>
+
+</body>
+</html>
+
+
+Destination: THE CITY
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f4f7f6; }
+        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #2c3e50; }
+        h2 { color: #e67e22; border-left: 5px solid #e67e22; padding-left: 10px; margin-top: 30px; }
+        .section { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; }
+        ul { padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Luxury Escape: 5 Days in San Francisco (The City)</h1>
+
+    <div class="section">
+        <h2>Trip Summary</h2>
+        <p>A sophisticated 5-day luxury journey through San Francisco, California. Designed for a couple, this trip balances deep historical exploration, high-end culinary experiences, and iconic sightseeing.</p>
+    </div>
+
+    <div class="section">
+        <h2>Tourist Attractions</h2>
+        <ul>
+            <li><strong>Alcatraz Island:</strong> A historic federal penitentiary offering a hauntingly beautiful perspective on American history.</li>
+            <li><strong>Golden Gate Bridge:</strong> The world-famous suspension bridge; ideal for sunset strolls or bike rides.</li>
+            <li><strong>Palace of Fine Arts:</strong> An architectural masterpiece from the 1915 Panama-Pacific Exposition, perfect for romantic walks.</li>
+            <li><strong>The Presidio:</strong> A former military post turned national park with panoramic views and fascinating history.</li>
+            <li><strong>San Francisco Museum of Modern Art (SFMOMA):</strong> A world-class destination for modern and contemporary art lovers.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Recommended Hotels</h2>
+        <ul>
+            <li><strong>The Fairmont San Francisco:</strong> Nob Hill luxury with unparalleled city views.</li>
+            <li><strong>The Ritz-Carlton, San Francisco:</strong> Classic elegance and legendary service.</li>
+            <li><strong>Four Seasons Hotel San Francisco at Embarcadero:</strong> Contemporary luxury overlooking the Bay.</li>
+            <li><strong>St. Regis San Francisco:</strong> Ultra-modern chic near the Museum District.</li>
+            <li><strong>Hotel Drisco:</strong> An upscale boutique experience in the charming Pacific Heights neighborhood.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Day-wise Itinerary</h2>
+        <p><strong>Day 1:</strong> Arrival & Sunset at the Embarcadero.</p>
+        <p><strong>Day 2:</strong> Deep Dive History (Alcatraz) & Fisherman’s Wharf.</p>
+        <p><strong>Day 3:</strong> Golden Gate Park & Academy of Sciences.</p>
+        <p><strong>Day 4:</strong> Art & Culture (SFMOMA) & Fine Dining in Nob Hill.</p>
+        <p><strong>Day 5:</strong> Leisurely morning at the Palace of Fine Arts & Departure.</p>
+    </div>
+
+    <div class="section">
+        <h2>Budget Breakdown (Luxury for 2)</h2>
+        <table>
+            <tr><th>Category</th><th>Estimated Cost (USD)</th></tr>
+            <tr><td>Luxury Accommodation</td><td>$4,000</td></tr>
+            <tr><td>Fine Dining</td><td>$2,500</td></tr>
+            <tr><td>Private Tours & Tickets</td><td>$1,000</td></tr>
+            <tr><td>Transportation (Uber Black/Private)</td><td>$700</td></tr>
+            <tr><td><strong>Total</strong></td><td><strong>$8,200</strong></td></tr>
+        </table>
+    </div>
+
+    <div class="section">
+        <h2>Food Suggestions</h2>
+        <ul>
+            <li><strong>Sourdough Bread:</strong> Grab a bowl of clam chowder at Boudin Bakery.</li>
+            <li><strong>Dungeness Crab:</strong> Enjoy fresh, locally caught crab at Fisherman’s Wharf.</li>
+            <li><strong>Mission Burrito:</strong> A cultural staple—try a high-end variation in the Mission District.</li>
+            <li><strong>Ghirdelli Chocolate:</strong> The iconic San Francisco sweet treat.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Packing List</h2>
+        <ul>
+            <li>Lightweight layers (San Francisco weather is unpredictable).</li>
+            <li>Comfortable walking shoes (the hills are steep!).</li>
+            <li>Elegant dinner wear for upscale dining.</li>
+            <li>Light waterproof jacket for the coastal fog.</li>
+            <li>Camera/Binoculars for bridge views.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Travel Tips</h2>
+        <ol>
+            <li><strong>Dress in layers:</strong> The "Mark Twain" rule—the coldest winter is a summer in San Francisco.</li>
+            <li><strong>Book Alcatraz early:</strong> Tickets sell out weeks in advance.</li>
+            <li><strong>Ride the Cable Car:</strong> Buy the MUNI pass to avoid waiting in long lines for tickets.</li>
+            <li><strong>Use Private Car Services:</strong> For a luxury experience, pre-book private transportation instead of relying on standard public transit.</li>
+            <li><strong>Reservations are Key:</strong> Top-tier restaurants require booking at least a month ahead.</li>
+        </ol>
+    </div>
+
+</body>
+</html>
